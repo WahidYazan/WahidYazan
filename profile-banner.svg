@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">HNW profile accent</title>
+  <desc id="desc">A restrained charcoal banner with an electric-blue accent, an HNW monogram, and subtle geometric linework.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1118"/>
+      <stop offset="1" stop-color="#111c28"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#38bdf8"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#8ba7c7" stroke-opacity="0.10" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="150" rx="14" fill="url(#background)"/>
+  <rect width="1200" height="150" rx="14" fill="url(#grid)"/>
+  <rect width="4" height="150" rx="2" fill="url(#accent)"/>
+  <rect x="34" y="27" width="96" height="96" rx="20" fill="#111f2d" stroke="#35516e" stroke-width="1.5"/>
+  <path d="M50 48H114" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="82" y="88" text-anchor="middle" fill="#f8fafc" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="1">HNW</text>
+  <path d="M82 101V109" stroke="#60a5fa" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="82" cy="114" r="2.5" fill="#60a5fa"/>
+  <g fill="none" stroke="#6da5d8" stroke-opacity="0.26" stroke-width="1.5">
+    <path d="M945 26H1084V62H1142"/>
+    <path d="M902 49H1008V91H1163"/>
+    <path d="M960 121H1052V102H1190"/>
+    <circle cx="945" cy="26" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="1142" cy="62" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="902" cy="49" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="1163" cy="91" r="3" fill="#60a5fa" stroke="none"/>
+    <circle cx="960" cy="121" r="3" fill="#60a5fa" stroke="none"/>
+  </g>
+</svg>
