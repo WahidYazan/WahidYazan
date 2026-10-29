@@ -23,7 +23,7 @@
 
 ### 🪪 Developer Identity
 
-<table align="center">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">👤 Personal Profile</h4>
@@ -72,7 +72,7 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
 
 <br />
 
-<div align="left">
+<div>
   
 | Domain | Technologies |
 | :--- | :--- |
