@@ -72,7 +72,7 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
 
 <br />
 
-<div align="center">
+<div align="left">
   
 | Domain | Technologies |
 | :--- | :--- |
@@ -95,10 +95,3 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
 </div>
 
 ---
-
-<div align="center">
-  <p>
-    Discord Direct: <code>yazanpet</code> &bull; Server: <a href="https://discord.gg/P2ttcrbxB">discord.gg/P2ttcrbxB</a>
-  </p>
-  <sub>⭐️ Designed with simplicity &amp; focus &bull; <strong>Hidayat Nur Wahid</strong></sub>
-</div>
