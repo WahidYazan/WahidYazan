@@ -1,46 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="322" viewBox="0 0 1200 322" role="img" aria-labelledby="title desc">
-  <title id="title">Technology stack</title>
-  <desc id="desc">A clear, editorial overview of backend, frontend, database, mobile and development tools.</desc>
-  <defs>
-    <clipPath id="frame"><rect x="1" y="1" width="1198" height="320" rx="8"/></clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Technical toolkit</title>
+  <desc id="desc">A minimal dark panel listing practical software development technologies without proficiency claims.</desc>
+  <defs><clipPath id="frame"><rect x="1" y="1" width="1198" height="298" rx="10"/></clipPath></defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="322" fill="#f7f8fa"/>
-    <rect x="0" y="0" width="8" height="322" fill="#2457ff"/>
-    <text x="40" y="44" fill="#111318" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">TECHNICAL TOOLKIT</text>
-    <text x="40" y="67" fill="#636a75" font-family="Inter, Arial, sans-serif" font-size="12.5">The technologies I use to build and ship software.</text>
-    <rect x="1000" y="27" width="160" height="30" rx="3" fill="#e9edff"/>
-    <text x="1080" y="46" text-anchor="middle" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.3">CORE STACK / 04</text>
-    <path d="M40 88H1160" stroke="#d9dde4" stroke-width="1.2"/>
-
-    <g transform="translate(40 111)">
-      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">01</text>
-      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">BACKEND</text>
-      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">PHP · Laravel · Java · API integration</text>
-      <path d="M40 54H515" stroke="#d9dde4"/>
+    <rect width="1200" height="300" fill="#101114"/>
+    <rect width="6" height="300" fill="#ff6845"/>
+    <text x="38" y="43" fill="#f6f4ee" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="800">Technical toolkit</text>
+    <text x="38" y="65" fill="#92939a" font-family="Inter, Arial, sans-serif" font-size="12.5">Technologies used across learning and personal projects.</text>
+    <path d="M38 84H1162" stroke="#33343a"/>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.5">
+      <text x="38" y="115" fill="#ff6845">01 / BACKEND</text>
+      <text x="38" y="140" fill="#e4e3de" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0">PHP · Laravel · Java · API integration</text>
+      <path d="M38 155H570" stroke="#33343a"/>
+      <text x="626" y="115" fill="#ff6845">02 / FRONTEND</text>
+      <text x="626" y="140" fill="#e4e3de" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0">JavaScript · TypeScript · React · Next.js · Tailwind CSS</text>
+      <path d="M626 155H1162" stroke="#33343a"/>
+      <text x="38" y="190" fill="#ff6845">03 / DATA</text>
+      <text x="38" y="215" fill="#e4e3de" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0">PostgreSQL · MySQL · MariaDB · MongoDB · SQLite</text>
+      <path d="M38 230H570" stroke="#33343a"/>
+      <text x="626" y="190" fill="#ff6845">04 / MOBILE &amp; DELIVERY</text>
+      <text x="626" y="215" fill="#e4e3de" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="500" letter-spacing="0">Kotlin · Flutter · Git · Linux · Docker · Vite</text>
+      <path d="M626 230H1162" stroke="#33343a"/>
     </g>
-    <g transform="translate(620 111)">
-      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">02</text>
-      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">FRONTEND</text>
-      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">JavaScript · TypeScript · React · Next.js</text>
-      <path d="M40 54H540" stroke="#d9dde4"/>
-    </g>
-
-    <g transform="translate(40 202)">
-      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">03</text>
-      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">DATA &amp; STORAGE</text>
-      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">PostgreSQL · MySQL · MariaDB · MongoDB · SQLite</text>
-      <path d="M40 54H515" stroke="#d9dde4"/>
-    </g>
-    <g transform="translate(620 202)">
-      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">04</text>
-      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">TOOLS &amp; MOBILE</text>
-      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">Git · Linux · Docker · Kotlin · Flutter · Tailwind CSS</text>
-      <path d="M40 54H540" stroke="#d9dde4"/>
-    </g>
-    <text x="40" y="301" fill="#878d97" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5" letter-spacing="1.1">TOOLS VARY BY PROJECT · FOCUSED ON PRACTICAL IMPLEMENTATION</text>
-    <rect x="1139" y="285" width="21" height="21" fill="#d8ff3e"/>
-    <path d="M1145 295H1154M1149.5 290.5V299.5" stroke="#111318" stroke-width="1.4"/>
+    <text x="38" y="271" fill="#74767e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5" letter-spacing="1.2">PRACTICAL IMPLEMENTATION / NO INFLATED SKILL RATINGS</text>
   </g>
-  <rect x=".75" y=".75" width="1198.5" height="320.5" rx="8" fill="none" stroke="#dfe2e8" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="1198.5" height="298.5" rx="10" fill="none" stroke="#33343a" stroke-width="1.5"/>
 </svg>
