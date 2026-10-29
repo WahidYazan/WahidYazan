@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hidayat Nur Wahid</h1>
-  <p><strong>Full-Stack Developer</strong> &bull; <code>@WahidYazan</code></p>
+  <p><strong>Full-Stack Developer</strong> &bull;</p>
   
   <p>
     Passionate about crafting scalable backend APIs, modern web applications, and intuitive user experiences.
