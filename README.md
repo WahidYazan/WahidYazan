@@ -1,21 +1,22 @@
+<!-- README.md -->
 <div align="center">
-  <img src="assets/banner.svg" alt="Hidayat Nur Wahid — Full-Stack Web Developer" width="100%" />
+  <h1>Hidayat Nur Wahid</h1>
+  <p><strong>Building useful products. Writing thoughtful code. Learning by shipping.</strong></p>
+  <p>Full-Stack Web Development · Backend Engineering · Self-Hosted Infrastructure</p>
 
   <p>
-    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-101d29?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-    <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-101d29?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
-    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-yazzan__sz-101d29?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
+    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-101d29?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-101d29?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-101d29?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
+    <img src="https://img.shields.io/badge/Discord-darksam909-101d29?style=flat-square&logo=discord&logoColor=white" alt="Discord profile" />
   </p>
-
-  <p><strong>Building useful products. Writing thoughtful code. Learning by shipping.</strong></p>
-  <p>Full-stack web development · Backend engineering · Self-hosted infrastructure</p>
 </div>
 
 ---
 
 ## About
 
-I'm **Hidayat Nur Wahid**, a developer interested in the complete journey of a product—from shaping the data model and application logic to creating a clear user interface and getting it deployed.
+I'm **Hidayat Nur Wahid** (Yazan), an 11th-grade Software & Game Development (PPLG) student based in Solo, Indonesia. I am deeply interested in the complete journey of a product—from shaping the data model and application logic to creating a clear user interface and getting it deployed.
 
 My main focus is **Laravel, PHP, React, and Next.js**. I enjoy building practical applications, improving the details that make software easier to use, and learning how the systems behind an application work.
 
@@ -35,7 +36,7 @@ I value good engineering over unnecessary complexity: readable code, secure defa
     <td width="50%" valign="top">
       <h3><a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">LMS TKA — PPLG</a></h3>
       <p><strong>A learning platform for the PPLG program</strong></p>
-      <p>A web-based learning project built with Next.js and TypeScript, with a live deployment to explore.</p>
+      <p>A web-based learning project built with Next.js and TypeScript, designed with a clean and responsive interface.</p>
       <p><sub>Next.js · TypeScript · Vercel</sub></p>
       <p><a href="https://lms-tka-jurusan-pplg-2.vercel.app">Visit live site ↗</a> &nbsp;·&nbsp; <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">Source code ↗</a></p>
     </td>
@@ -51,8 +52,8 @@ I value good engineering over unnecessary complexity: readable code, secure defa
     <td width="50%" valign="top">
       <h3>Self-hosted infrastructure</h3>
       <p><strong>Beyond local development</strong></p>
-      <p>Hands-on learning with Linux servers, application hosting, and multiplayer server environments for communities.</p>
-      <p><sub>Linux · Deployment · Server administration</sub></p>
+      <p>Hands-on learning with Linux (CachyOS), Proxmox virtualization, Docker containerization, and managing custom multiplayer environments like Minecraft Paper and GTA V FiveM.</p>
+      <p><sub>Linux · Proxmox · Docker · Server administration</sub></p>
     </td>
   </tr>
 </table>
@@ -60,10 +61,17 @@ I value good engineering over unnecessary complexity: readable code, secure defa
 ## Technology
 
 <div align="center">
-  <img src="assets/stack.svg" alt="Technology toolkit categorized into backend, frontend, data and storage, and tools and platform." width="100%" />
+  <p><strong>Backend & Database</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=laravel,php,ts,postgres,sqlite,supabase" alt="Backend Stack" /></a>
+  <br><br>
+  <p><strong>Frontend</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,html,css" alt="Frontend Stack" /></a>
+  <br><br>
+  <p><strong>Infrastructure & Tools</strong></p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,git,obsidian,idea" alt="Infrastructure Stack" /></a>
 </div>
 
-<p align="center"><sub>Additional tools and interests: JavaScript · Kotlin · Flutter · Alpine.js · Vercel</sub></p>
+<p align="center"><sub>Additional tools and interests: Java · Kotlin · Flutter · Alpine.js · Proxmox · Vercel · Zed Editor</sub></p>
 
 ## How I build
 
@@ -90,7 +98,7 @@ I value good engineering over unnecessary complexity: readable code, secure defa
 
 ## Beyond code
 
-I also enjoy exploring server infrastructure and self-hosted services. Working with real deployments helps me understand the operational side of software—not just how to build it, but how to keep it running.
+I also enjoy exploring server infrastructure and self-hosted services. Working with real deployments—from configuring web deployment panels to maintaining custom game servers—helps me understand the operational side of software. It's not just about how to build it, but how to keep it running securely and efficiently.
 
 ## Let's connect
 
@@ -103,5 +111,6 @@ Have a project idea, useful feedback, or an opportunity to collaborate? Feel fre
 </p>
 
 <div align="center">
+  <br>
   <sub>Thoughtfully built. Continuously learning. Always improving.</sub>
 </div>
