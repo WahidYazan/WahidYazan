@@ -93,5 +93,3 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahidYazan&theme=dark&background=0d1117&border=30363d&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=f0f6fc&sideLabels=8b949e&currStreakLabel=8b949e&dates=6e7681" alt="WahidYazan GitHub Streak" />
   </a>
 </div>
-
----
