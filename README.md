@@ -1,72 +1,105 @@
 <div align="center">
-
   <img src="assets/banner.svg" alt="Hidayat Nur Wahid — Full-Stack Web Developer" width="100%" />
 
-  <p><strong>Full-Stack Developer · Web Applications · Infrastructure</strong></p>
-
   <p>
-    I build thoughtful, reliable web applications — from data models and backend logic<br />
-    to polished interfaces, deployment, and the systems that keep them running.
+    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-101d29?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
+    <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-101d29?style=flat-square&logo=gmail&logoColor=white" alt="Contact by email" /></a>
+    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-yazzan__sz-101d29?style=flat-square&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
   </p>
 
-  <p>
-    <a href="https://github.com/WahidYazan?tab=repositories">Explore my projects</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.instagram.com/yazzan_sz/">Instagram</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:goakmal3@gmail.com">Get in touch</a>
-  </p>
-
+  <p><strong>Building useful products. Writing thoughtful code. Learning by shipping.</strong></p>
+  <p>Full-stack web development · Backend engineering · Self-hosted infrastructure</p>
 </div>
 
 ---
 
 ## About
 
-I'm Hidayat Nur Wahid, a developer focused on building practical, maintainable software. My main stack is **Laravel, PHP, React, and Next.js**.
+I'm **Hidayat Nur Wahid**, a developer interested in the complete journey of a product—from shaping the data model and application logic to creating a clear user interface and getting it deployed.
 
-I enjoy working across the full application lifecycle: designing data models, implementing authentication and role-based access, building clear user experiences, and deploying applications to real environments.
+My main focus is **Laravel, PHP, React, and Next.js**. I enjoy building practical applications, improving the details that make software easier to use, and learning how the systems behind an application work.
 
-My approach is simple: **keep the experience clear, the implementation maintainable, and the foundations reliable.**
+I value good engineering over unnecessary complexity: readable code, secure defaults, responsive interfaces, and maintainable foundations.
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/WahidYazan/Flowbill">FlowBill</a></h3>
+      <p><strong>Invoicing for freelancers and small businesses</strong></p>
+      <p>A Laravel application for managing customers, invoices, payment statuses, multi-currency totals, and revenue analytics.</p>
+      <p><sub>Laravel 13 · PHP · Alpine.js · Tailwind CSS · SQLite</sub></p>
+      <p><a href="https://github.com/WahidYazan/Flowbill">View repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">LMS TKA — PPLG</a></h3>
+      <p><strong>A learning platform for the PPLG program</strong></p>
+      <p>A web-based learning project built with Next.js and TypeScript, with a live deployment to explore.</p>
+      <p><sub>Next.js · TypeScript · Vercel</sub></p>
+      <p><a href="https://lms-tka-jurusan-pplg-2.vercel.app">Visit live site ↗</a> &nbsp;·&nbsp; <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">Source code ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">Coding from Zero</a></h3>
+      <p><strong>A project focused on learning to code</strong></p>
+      <p>A Next.js and TypeScript learning-platform project built around the idea of making programming more approachable.</p>
+      <p><sub>Next.js · TypeScript</sub></p>
+      <p><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">View repository ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Self-hosted infrastructure</h3>
+      <p><strong>Beyond local development</strong></p>
+      <p>Hands-on learning with Linux servers, application hosting, and multiplayer server environments for communities.</p>
+      <p><sub>Linux · Deployment · Server administration</sub></p>
+    </td>
+  </tr>
+</table>
 
 ## Technology
 
 <div align="center">
-  <img src="assets/stack.svg" alt="Technology stack: PHP, Laravel, SQLite, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Alpine.js, Git, GitHub, Vite, and Vercel." width="420" />
+  <img src="assets/stack.svg" alt="Technology toolkit categorized into backend, frontend, data and storage, and tools and platform." width="100%" />
 </div>
 
-| Area | Focus |
-| --- | --- |
-| **Backend** | PHP, Laravel, API design, authentication, authorization |
-| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
-| **Data** | Relational database design, SQL, SQLite |
-| **Tools** | Git, GitHub, Vite, Vercel |
+## How I build
 
-## Beyond the application
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>01 / Understand</strong><br />
+      Start with the problem, the users, and the simplest useful solution.
+    </td>
+    <td width="25%" valign="top">
+      <strong>02 / Engineer</strong><br />
+      Keep code modular, validate input, and use sensible security defaults.
+    </td>
+    <td width="25%" valign="top">
+      <strong>03 / Refine</strong><br />
+      Pay attention to accessibility, responsive behavior, and interface details.
+    </td>
+    <td width="25%" valign="top">
+      <strong>04 / Improve</strong><br />
+      Test real workflows, learn from feedback, and keep making the product better.
+    </td>
+  </tr>
+</table>
 
-I also enjoy learning about the infrastructure behind software and helping projects run beyond a local development environment.
+## Beyond code
 
-- **Self-hosting:** configuring Linux servers and services for personal projects.
-- **Minecraft communities:** setting up and maintaining multiplayer server environments.
-- **FiveM:** configuring multiplayer server environments and related resources.
+I also enjoy exploring server infrastructure and self-hosted services. Working with real deployments helps me understand the operational side of software—not just how to build it, but how to keep it running.
 
-## What I value
+## Let's connect
 
-- **Maintainability** — code and structure that remain understandable as projects grow.
-- **Reliability** — sensible validation, secure defaults, and predictable behavior.
-- **Usability** — interfaces that feel clear, consistent, responsive, and intentional.
-- **Continuous learning** — improving through building, testing, and refining real projects.
+Have a project idea, useful feedback, or an opportunity to collaborate? Feel free to reach out.
 
-## Connect
-
-Have an idea, a project, or an opportunity to collaborate? Feel free to reach out.
-
-- **Email:** [goakmal3@gmail.com](mailto:goakmal3@gmail.com)
-- **Instagram:** [@yazzan_sz](https://www.instagram.com/yazzan_sz/)
-- **GitHub:** [@WahidYazan](https://github.com/WahidYazan)
-
----
+<p>
+  <a href="mailto:goakmal3@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/yazzan_sz/">Instagram</a> &nbsp;·&nbsp;
+  <a href="https://github.com/WahidYazan">GitHub</a>
+</p>
 
 <div align="center">
-  <sub>Designed with care · Built with curiosity · Always improving</sub>
+  <sub>Thoughtfully built. Continuously learning. Always improving.</sub>
 </div>
