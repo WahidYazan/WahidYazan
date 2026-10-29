@@ -1,80 +1,65 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="Hidayat Nur Wahid — Full-stack web developer" width="100%" />
+  <img src="assets/banner.svg" alt="Hidayat Nur Wahid — full-stack web developer" width="100%" />
 
   <p>
     <a href="https://github.com/WahidYazan?tab=repositories">PROJECTS</a>
-    &nbsp; / &nbsp;
-    <a href="mailto:goakmal3@gmail.com">CONTACT</a>
-    &nbsp; / &nbsp;
+    &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:goakmal3@gmail.com">EMAIL</a>
+    &nbsp;&nbsp;·&nbsp;&nbsp;
     <a href="https://www.instagram.com/yazzan_sz/">INSTAGRAM</a>
   </p>
-  <p><strong>Full-stack development · Product-minded engineering · Self-hosted systems</strong></p>
 </div>
-
----
 
 ## Profile
 
-I'm **Hidayat Nur Wahid**, a developer focused on building web applications with **Laravel, React, and Next.js**. I enjoy working across the application lifecycle—from data modelling and backend logic to responsive interfaces and deployment.
+I'm **Hidayat Nur Wahid**, a developer focused on web applications, primarily using **Laravel, React, and Next.js**. I enjoy building database-backed features and working through the full development process—from application logic and data modelling to interface design and deployment.
 
-I aim for software that is clear to use and straightforward to maintain: sensible architecture, validated inputs, consistent UI, and practical solutions over unnecessary complexity.
+My goal is to make software that is useful, clear to navigate, and straightforward to maintain. I prefer practical solutions, readable code, and thoughtful details over complexity for its own sake.
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/WahidYazan/Flowbill">01 / FlowBill</a></strong></p>
-      <p>An invoicing application for freelancers and small businesses, with customer management, invoice workflows, multi-currency totals, and revenue analytics.</p>
-      <p><sub>Laravel · PHP · Alpine.js · Tailwind CSS · SQLite</sub></p>
-      <p><a href="https://github.com/WahidYazan/Flowbill">Explore repository ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">02 / LMS TKA — PPLG</a></strong></p>
-      <p>A learning-management project developed for the PPLG learning context, with a deployed web experience.</p>
-      <p><sub>Next.js · TypeScript · Web development</sub></p>
-      <p><a href="https://lms-tka-jurusan-pplg-2.vercel.app">Open live site ↗</a> &nbsp;·&nbsp; <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">Source code ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <p><strong><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">03 / Coding from Zero</a></strong></p>
-      <p>A learning-platform project designed around making programming approachable from the fundamentals, using a modern web stack.</p>
-      <p><sub>Next.js · TypeScript · Supabase</sub></p>
-      <p><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">Explore repository ↗</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <p><strong>04 / Infrastructure &amp; self-hosting</strong></p>
-      <p>Hands-on exploration of Linux-based hosting, service configuration, and multiplayer server environments alongside application development.</p>
-      <p><sub>Linux · Deployment · Server configuration</sub></p>
-    </td>
-  </tr>
-</table>
+### [01 — FlowBill](https://github.com/WahidYazan/Flowbill)
 
-## Technology
+An invoicing application for freelancers and small businesses, with customer management, invoice workflows, multi-currency support, and revenue analytics.
+
+**Built with:** PHP · Laravel · Alpine.js · Tailwind CSS · SQLite
+
+[View source code →](https://github.com/WahidYazan/Flowbill)
+
+---
+
+### [02 — LMS TKA / PPLG](https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2)
+
+A learning-platform project for the TKA/PPLG context, built as a modern web application and published online.
+
+**Built with:** Next.js · TypeScript
+
+[Live site →](https://lms-tka-jurusan-pplg-2.vercel.app) · [Source code →](https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2)
+
+---
+
+### [03 — Coding from Zero](https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol)
+
+A project centred on making programming easier to approach, starting with the fundamentals and a modern web development stack.
+
+**Built with:** Next.js · TypeScript
+
+[View source code →](https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol)
+
+## Technical focus
 
 <div align="center">
-  <img src="assets/stack.svg" alt="Technology toolkit covering application development, web interfaces, data and persistence, mobile and delivery." width="100%" />
+  <img src="assets/stack.svg" alt="Technology overview: application development, web interfaces, data and storage, mobile and delivery." width="100%" />
 </div>
 
-## Engineering principles
+## How I approach projects
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>Clarity</strong><br />
-      Keep interfaces clear and code easy to understand.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Reliability</strong><br />
-      Validate data, use sensible defaults, and consider failure cases.
-    </td>
-    <td width="33%" valign="top">
-      <strong>Continuous improvement</strong><br />
-      Learn from real projects and refine the details that matter.
-    </td>
-  </tr>
-</table>
+- **Understand the problem.** Start with the user's needs and the simplest solution that works.
+- **Build with care.** Keep responsibilities clear, validate input, and consider how features fail—not only how they succeed.
+- **Refine the experience.** Pay attention to responsive layouts, readability, accessibility, and consistent interactions.
+- **Keep learning.** Use each project to improve technical judgement and delivery.
+
+Outside application development, I'm interested in Linux hosting, deployment workflows, and the infrastructure that keeps web services running.
 
 ## Contact
 
@@ -85,5 +70,5 @@ For project discussions, feedback, or collaboration:
 - **GitHub:** [@WahidYazan](https://github.com/WahidYazan)
 
 <div align="center">
-  <sub>Thoughtfully built. Continuously learning.</sub>
+  <sub>Built with intention. Improved through practice.</sub>
 </div>
