@@ -1,79 +1,80 @@
 <div align="center">
 
-# Hi, I'm Wahid (Yazan) 👋
+# Hidayat Nur Wahid (Yazan)
 
-**Full-stack web developer · Laravel & Next.js · Home server & game server setup**
+**Full-Stack Web Developer & Systems Administrator**
 
-I build clean, responsive web apps, from SaaS dashboards to invoicing tools, and I set up home servers and game servers on the side.
+<p align="center">
+  Building clean, responsive web applications and architecting self-hosted server environments.
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Working from home](https://img.shields.io/badge/🏠-Working_from_home-2ea44f?style=flat-square)
-
+<div align="center">
+  <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-goakmal3@gmail.com-1F2937?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-1F2937?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-yazzan__sz-1F2937?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://discord.gg/eDwd7n3Xks"><img src="https://img.shields.io/badge/Discord-yazanpet-1F2937?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </div>
 
----
+<br>
+</div>
 
 ## 👨‍💻 About Me
 
-- 🛠️ I build full-stack web apps with **Laravel** (Blade, Alpine.js) and **Next.js** (TypeScript)
-- 🎨 I care about modern, responsive UI built with **Tailwind CSS**
-- 🧾 I like building real-world tools: invoicing, school management, and online shops
-- 🖥️ I also set up **home servers**, **Minecraft servers** and **GTA V (FiveM) servers**
-- 🌱 Currently learning: Exploring more about local AI/LLM integrations
-- 💬 Ask me about: Laravel, Next.js, self-hosting, and setting up game servers
+I am a Software & Game Development student based in Solo, Indonesia. I specialize in the complete lifecycle of software—from writing the backend logic and crafting responsive user interfaces, to deploying and managing the infrastructure that keeps it running.
 
----
+- 🌐 **Web Engineering:** Building dynamic, real-world applications using **Laravel, Next.js, React, and TypeScript**.
+- 🖥️ **Self-Hosting & DevOps:** Managing Linux environments, Docker containers, and virtual machines via **Proxmox**.
+- 🎮 **Game Servers:** Configuring, optimizing, and maintaining custom **Minecraft (Paper)** and **GTA V (FiveM QBCore)** multiplayer servers.
+- 🌱 **Currently Exploring:** Local AI/LLM integrations and advanced Git webhook deployments.
 
-## 🧰 Tech Stack
+<br>
+
+## 🛠️ Technology Stack
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <b>Frontend & UI</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css" alt="Frontend" /></a>
+    </td>
+    <td align="center" width="50%">
+      <b>Backend & Database</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,sqlite,postgres,supabase" alt="Backend" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>Infrastructure & Ops</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,docker,cloudflare,nginx,bash" alt="Infrastructure" /></a>
+    </td>
+    <td align="center" width="50%">
+      <b>Tools & Environment</b><br><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vercel,idea,obsidian" alt="Tools" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## 🚀 Selected Work & Services
+
+| 💻 Software Engineering | ⚙️ Server Administration |
+| :--- | :--- |
+| **[FlowBill](https://github.com/WahidYazan/Flowbill)**<br>Multi-currency invoicing and analytics for small businesses.<br><sub>Laravel · PHP · Tailwind CSS · Alpine.js</sub> | **Home Server (Proxmox)**<br>Architecting self-hosted environments for apps, files, and community services on personal hardware. |
+| **[LMS TKA — PPLG](https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2)**<br>Responsive learning platform designed for the PPLG program.<br><sub>Next.js · TypeScript · Vercel</sub> | **Minecraft Multiplayer (Paper)**<br>Creating custom Minecraft servers, including configuring Java/Maven plugins for optimized gameplay. |
+| **[Coding from Zero](https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol)**<br>Interactive learning platform making programming approachable.<br><sub>Next.js · TypeScript</sub> | **GTA V Roleplay (FiveM)**<br>Deploying and managing stable GTA V multiplayer servers utilizing the QBCore framework. |
+
+<br>
+
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,alpinejs,vite,sqlite,git,github,vercel&perline=7" alt="Tech stack icons" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=WahidYazan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidYazan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" alt="Top Languages" />
 </div>
 
-| Area | Tools |
-| --- | --- |
-| **Backend** | PHP, Laravel, SQLite |
-| **Frontend** | JavaScript, TypeScript, React, Next.js, Alpine.js, Tailwind CSS, Blade |
-| **Tooling & Deploy** | Vite, Git, GitHub, Vercel |
-| **Servers** | Home server setup (Proxmox), Minecraft server (Paper), GTA V FiveM server (QBCore) |
-
----
-
-## 🖥️ Servers & Self-Hosting
-
-Beyond web development, I can set up and configure servers for you or your community:
-
-| | Service | What I do |
-| --- | --- | --- |
-| 🏠 | **Home Server** | Set up a server at home to host apps, files and other services via Proxmox |
-| ⛏️ | **Minecraft Server** | Create and configure Minecraft servers (Paper) and custom plugins |
-| 🚗 | **FiveM (GTA V) Server** | Set up GTA V multiplayer servers with FiveM (QBCore framework) |
-
----
-
-## 📫 Let's Connect
-
-Feel free to reach out if you have a project idea, need server setups, or just want to collaborate!
+<br>
 
 <div align="center">
-
-[![Email](https://img.shields.io/badge/Email-goakmal3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goakmal3@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-yazzan__sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yazzan_sz/)
-[![Discord User](https://img.shields.io/badge/Discord-yazanpet-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
-[![Discord Server](https://img.shields.io/badge/Discord_Community-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eDwd7n3Xks)
-[![GitHub](https://img.shields.io/badge/GitHub-WahidYazan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WahidYazan)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ Thanks for stopping by! Feel free to explore my repositories.
-
+  <sub>Thoughtfully built. Continuously learning. Always improving.</sub>
 </div>
