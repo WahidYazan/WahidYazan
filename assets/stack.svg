@@ -1,44 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-  <title id="title">Technology overview</title>
-  <desc id="desc">A clean, categorized view of application development, web interfaces, databases, mobile development and delivery tools.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="322" viewBox="0 0 1200 322" role="img" aria-labelledby="title desc">
+  <title id="title">Technology stack</title>
+  <desc id="desc">A clear, editorial overview of backend, frontend, database, mobile and development tools.</desc>
   <defs>
-    <clipPath id="frame"><rect x="1" y="1" width="1198" height="388" rx="16"/></clipPath>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="320" rx="8"/></clipPath>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="390" fill="#f4f2eb"/>
-    <text x="42" y="45" fill="#20392d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="700">Technology overview</text>
-    <text x="42" y="68" fill="#677368" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">Core tools used across personal and learning projects.</text>
-    <text x="1158" y="47" text-anchor="end" fill="#6f806f" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" letter-spacing="1.35">FOCUS AREAS / 04</text>
-    <path d="M42 88H1158" stroke="#d8dcd2"/>
+    <rect width="1200" height="322" fill="#f7f8fa"/>
+    <rect x="0" y="0" width="8" height="322" fill="#2457ff"/>
+    <text x="40" y="44" fill="#111318" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">TECHNICAL TOOLKIT</text>
+    <text x="40" y="67" fill="#636a75" font-family="Inter, Arial, sans-serif" font-size="12.5">The technologies I use to build and ship software.</text>
+    <rect x="1000" y="27" width="160" height="30" rx="3" fill="#e9edff"/>
+    <text x="1080" y="46" text-anchor="middle" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1.3">CORE STACK / 04</text>
+    <path d="M40 88H1160" stroke="#d9dde4" stroke-width="1.2"/>
 
-    <g transform="translate(42 108)">
-      <rect width="548" height="112" rx="10" fill="#fbfaf6" stroke="#d8ded4"/>
-      <rect x="20" y="20" width="3" height="17" rx="1.5" fill="#53785b"/>
-      <text x="34" y="33" fill="#365b41" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.3">APPLICATION DEVELOPMENT</text>
-      <text x="20" y="66" fill="#27352a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15.5" font-weight="600">PHP · Laravel · Java</text>
-      <text x="20" y="88" fill="#687469" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">Backend logic, validation and application workflows</text>
+    <g transform="translate(40 111)">
+      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">01</text>
+      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">BACKEND</text>
+      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">PHP · Laravel · Java · API integration</text>
+      <path d="M40 54H515" stroke="#d9dde4"/>
     </g>
-    <g transform="translate(610 108)">
-      <rect width="548" height="112" rx="10" fill="#fbfaf6" stroke="#d8ded4"/>
-      <rect x="20" y="20" width="3" height="17" rx="1.5" fill="#53785b"/>
-      <text x="34" y="33" fill="#365b41" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.3">WEB &amp; INTERFACES</text>
-      <text x="20" y="66" fill="#27352a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">JavaScript · TypeScript · React · Next.js</text>
-      <text x="20" y="88" fill="#687469" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">Tailwind CSS and responsive interface development</text>
+    <g transform="translate(620 111)">
+      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">02</text>
+      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">FRONTEND</text>
+      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">JavaScript · TypeScript · React · Next.js</text>
+      <path d="M40 54H540" stroke="#d9dde4"/>
     </g>
-    <g transform="translate(42 238)">
-      <rect width="548" height="112" rx="10" fill="#fbfaf6" stroke="#d8ded4"/>
-      <rect x="20" y="20" width="3" height="17" rx="1.5" fill="#53785b"/>
-      <text x="34" y="33" fill="#365b41" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.3">DATA &amp; STORAGE</text>
-      <text x="20" y="66" fill="#27352a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14.5" font-weight="600">PostgreSQL · MySQL · MariaDB · MongoDB</text>
-      <text x="20" y="88" fill="#687469" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">SQLite and relational data modelling</text>
+
+    <g transform="translate(40 202)">
+      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">03</text>
+      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">DATA &amp; STORAGE</text>
+      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">PostgreSQL · MySQL · MariaDB · MongoDB · SQLite</text>
+      <path d="M40 54H515" stroke="#d9dde4"/>
     </g>
-    <g transform="translate(610 238)">
-      <rect width="548" height="112" rx="10" fill="#fbfaf6" stroke="#d8ded4"/>
-      <rect x="20" y="20" width="3" height="17" rx="1.5" fill="#53785b"/>
-      <text x="34" y="33" fill="#365b41" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.3">MOBILE &amp; DELIVERY</text>
-      <text x="20" y="66" fill="#27352a" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15" font-weight="600">Kotlin · Flutter · Git · Docker · Linux</text>
-      <text x="20" y="88" fill="#687469" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12">Vite, Vercel and self-hosted environments</text>
+    <g transform="translate(620 202)">
+      <text x="0" y="12" fill="#2457ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.6">04</text>
+      <text x="40" y="12" fill="#222630" font-family="Inter, Arial, sans-serif" font-size="14" font-weight="800">TOOLS &amp; MOBILE</text>
+      <text x="40" y="37" fill="#525965" font-family="Inter, Arial, sans-serif" font-size="14">Git · Linux · Docker · Kotlin · Flutter · Tailwind CSS</text>
+      <path d="M40 54H540" stroke="#d9dde4"/>
     </g>
+    <text x="40" y="301" fill="#878d97" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5" letter-spacing="1.1">TOOLS VARY BY PROJECT · FOCUSED ON PRACTICAL IMPLEMENTATION</text>
+    <rect x="1139" y="285" width="21" height="21" fill="#d8ff3e"/>
+    <path d="M1145 295H1154M1149.5 290.5V299.5" stroke="#111318" stroke-width="1.4"/>
   </g>
-  <rect x=".75" y=".75" width="1198.5" height="388.5" rx="16" fill="none" stroke="#d7ddd2" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="1198.5" height="320.5" rx="8" fill="none" stroke="#dfe2e8" stroke-width="1.5"/>
 </svg>
