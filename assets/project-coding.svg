@@ -1,47 +1,79 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
-  <title id="title">Coding from Zero — Learn programming</title>
-  <desc id="desc">An editorial project cover for a programming learning platform, with a code editor and course outline illustration.</desc>
-  <defs><clipPath id="frame"><rect x="1" y="1" width="998" height="428" rx="10"/></clipPath></defs>
+  <title id="title">Coding from Zero — Learning Platform</title>
+  <desc id="desc">Project showcase for Platform Belajar Coding Dari Nol built with Next.js and TypeScript.</desc>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="998" height="428" rx="10"/></clipPath>
+    <linearGradient id="codeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
   <g clip-path="url(#frame)">
-    <rect width="1000" height="430" fill="#151518"/>
-    <path d="M630 0L1000 0V430H850Z" fill="#1e1e23"/>
-    <text x="42" y="45" fill="#88aaff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">03 / LEARNING BY BUILDING</text>
-    <text x="40" y="94" fill="#f7f7f4" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1.2">Coding from Zero</text>
-    <text x="42" y="122" fill="#b2b2bc" font-family="Inter, Arial, sans-serif" font-size="15">Start with the basics. Build your understanding.</text>
+    <rect width="1000" height="430" fill="#0b0d12"/>
+    <circle cx="880" cy="70" r="240" fill="#38bdf8" opacity=".05"/>
 
-    <rect x="42" y="154" width="916" height="226" rx="8" fill="#202126" stroke="#3a3b44"/>
-    <rect x="42" y="154" width="916" height="29" rx="8" fill="#292a30"/>
-    <path d="M42 175H958" stroke="#3a3b44"/>
-    <circle cx="61" cy="168" r="4" fill="#ff7063"/>
-    <circle cx="75" cy="168" r="4" fill="#ffca58"/>
-    <circle cx="89" cy="168" r="4" fill="#73d49a"/>
-    <text x="500" y="172" text-anchor="middle" fill="#8d8f99" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5">lesson-01.ts</text>
+    <text x="42" y="44" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">03 // DEVELOPER ROADMAPS</text>
+    <text x="40" y="94" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="38" font-weight="800" letter-spacing="-1.2">Coding from Zero</text>
+    <text x="42" y="122" fill="#94a3b8" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15">Structured roadmaps and interactive foundational guides for aspiring developers.</text>
 
-    <rect x="42" y="183" width="48" height="197" fill="#1a1b20"/>
-    <g fill="#6e707a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" text-anchor="end">
-      <text x="78" y="208">01</text><text x="78" y="232">02</text><text x="78" y="256">03</text>
-      <text x="78" y="280">04</text><text x="78" y="304">05</text><text x="78" y="328">06</text><text x="78" y="352">07</text>
+    <!-- App Mockup Window -->
+    <rect x="42" y="154" width="916" height="236" rx="8" fill="#10141d" stroke="#1e293b"/>
+
+    <!-- Editor Header -->
+    <rect x="42" y="154" width="916" height="32" rx="8" fill="#141a26"/>
+    <line x1="42" y1="186" x2="958" y2="186" stroke="#1e293b"/>
+    <circle cx="62" cy="170" r="4" fill="#ef4444"/>
+    <circle cx="76" cy="170" r="4" fill="#f59e0b"/>
+    <circle cx="90" cy="170" r="4" fill="#10b981"/>
+    <text x="500" y="174" text-anchor="middle" fill="#94a3b8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11">guide-roadmap.ts</text>
+
+    <!-- Code Editor Section -->
+    <g transform="translate(62, 206)">
+      <!-- Line Numbers -->
+      <g fill="#475569" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11.5">
+        <text x="0" y="16">01</text>
+        <text x="0" y="38">02</text>
+        <text x="0" y="60">03</text>
+        <text x="0" y="82">04</text>
+        <text x="0" y="104">05</text>
+        <text x="0" y="126">06</text>
+        <text x="0" y="148">07</text>
+      </g>
+
+      <!-- Code -->
+      <g transform="translate(36, 0)" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12.5">
+        <text x="0" y="16"><tspan fill="#38bdf8">interface</tspan> <tspan fill="#f8fafc">LearningPath</tspan> {</text>
+        <text x="18" y="38"><tspan fill="#94a3b8">stage:</tspan> <tspan fill="#38bdf8">'Foundations'</tspan> | <tspan fill="#38bdf8">'Engineering'</tspan> | <tspan fill="#38bdf8">'Shipping'</tspan>;</text>
+        <text x="18" y="60"><tspan fill="#94a3b8">principles:</tspan> <tspan fill="#f8fafc">['Modular Architecture', 'Type Safety', 'Clean APIs']</tspan>;</text>
+        <text x="18" y="82"><tspan fill="#94a3b8">handsOn:</tspan> <tspan fill="#34d399">true</tspan>;</text>
+        <text x="0" y="104">}</text>
+        <text x="0" y="132" fill="#64748b">// Build understanding through practical implementations.</text>
+        <text x="0" y="152" fill="#64748b">// Focus on durable programming concepts over framework hype.</text>
+      </g>
     </g>
-    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12.5">
-      <text x="110" y="208" fill="#c792ea">const</text><text x="154" y="208" fill="#f7f7f4"> learner = {</text>
-      <text x="130" y="232" fill="#9cdcfe"> goal:</text><text x="178" y="232" fill="#ce9178"> "understand the basics",</text>
-      <text x="130" y="256" fill="#9cdcfe"> practice:</text><text x="201" y="256" fill="#ce9178"> true,</text>
-      <text x="130" y="280" fill="#9cdcfe"> curiosity:</text><text x="208" y="280" fill="#dcdcaa"> Infinity,</text>
-      <text x="110" y="304" fill="#f7f7f4">};</text>
-      <text x="110" y="340" fill="#6a9955">// Learn one concept at a time.</text>
-      <text x="110" y="364" fill="#6a9955">// Turn knowledge into working code.</text>
+
+    <!-- Right-hand roadmap card -->
+    <g transform="translate(640, 204)">
+      <rect x="0" y="0" width="290" height="162" rx="6" fill="#141a26" stroke="#1e293b"/>
+      <text x="20" y="28" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13" font-weight="700">Milestone Progression</text>
+      <text x="20" y="46" fill="#64748b" font-family="Inter, sans-serif" font-size="10.5">Sequential mastery from syntax to deployment</text>
+
+      <!-- Step 1 -->
+      <circle cx="28" cy="74" r="5" fill="#38bdf8"/>
+      <line x1="28" y1="79" x2="28" y2="103" stroke="#1e293b" stroke-width="1.5"/>
+      <text x="44" y="78" fill="#f8fafc" font-family="Inter, sans-serif" font-size="11" font-weight="600">01. Language Fundamentals</text>
+
+      <!-- Step 2 -->
+      <circle cx="28" cy="108" r="5" fill="#38bdf8"/>
+      <line x1="28" y1="113" x2="28" y2="137" stroke="#1e293b" stroke-width="1.5"/>
+      <text x="44" y="112" fill="#f8fafc" font-family="Inter, sans-serif" font-size="11" font-weight="600">02. Web Architecture &amp; APIs</text>
+
+      <!-- Step 3 -->
+      <circle cx="28" cy="142" r="5" fill="#2563eb"/>
+      <text x="44" y="146" fill="#cbd5e1" font-family="Inter, sans-serif" font-size="11" font-weight="600">03. Full-Stack Production Deploy</text>
     </g>
-    <rect x="638" y="204" width="286" height="151" rx="5" fill="#f2f3f5"/>
-    <text x="658" y="228" fill="#282930" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800">Learning path</text>
-    <text x="658" y="250" fill="#71737d" font-family="Inter, Arial, sans-serif" font-size="10">Follow a path, not a pile of tutorials.</text>
-    <circle cx="667" cy="275" r="7" fill="#d6ff51"/>
-    <path d="M667 282V305" stroke="#c7c9cf" stroke-width="1.5"/>
-    <circle cx="667" cy="312" r="7" fill="#88aaff"/>
-    <path d="M667 319V339" stroke="#c7c9cf" stroke-width="1.5"/>
-    <circle cx="667" cy="345" r="7" fill="#d9dbe0"/>
-    <text x="685" y="279" fill="#272932" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700">Foundations</text>
-    <text x="685" y="316" fill="#272932" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700">Practice</text>
-    <text x="685" y="349" fill="#636671" font-family="Inter, Arial, sans-serif" font-size="10.5">Build a project</text>
   </g>
-  <rect x=".75" y=".75" width="998.5" height="428.5" rx="10" fill="none" stroke="#3a3b44" stroke-width="1.5"/>
+
+  <rect x=".75" y=".75" width="998.5" height="428.5" rx="10" fill="none" stroke="#1e293b" stroke-width="1.5"/>
 </svg>

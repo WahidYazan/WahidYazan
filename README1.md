@@ -1,128 +1,171 @@
 <div align="center">
 
-  <!-- Typing Header Animation -->
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=89B4FA&center=true&vcenter=true&width=520&lines=Hi+%F0%9F%90%A7%2C+I'm+Hidayat+Nur+Wahid;Full-Stack+Web+Developer;Laravel+%2B+Next.js+Enthusiast;Self-Hosted+Infrastructure+Builder" alt="Typing Header" />
+  <!-- Signature Hero Banner -->
+  <a href="https://github.com/WahidYazan">
+    <img src="./assets/banner.svg" alt="Hidayat Nur Wahid — Full-Stack Developer Banner" width="100%" />
   </a>
 
-  <p align="center">
-    <strong>Building useful products. Writing thoughtful code. Learning by shipping.</strong>
-  </p>
+  <br />
 
-  <!-- Badges / Links -->
+  <!-- Quick Navigation & Verified Channels -->
   <p align="center">
-    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-1e1e2e?style=for-the-badge&logo=github&logoColor=89b4fa" alt="GitHub" /></a>
-    <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" alt="Email" /></a>
-    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-yazzan__sz-1e1e2e?style=for-the-badge&logo=instagram&logoColor=cba6f7" alt="Instagram" /></a>
+    <a href="https://github.com/WahidYazan">
+      <img src="https://img.shields.io/badge/GitHub-WahidYazan-0b0d12?style=for-the-badge&logo=github&logoColor=38bdf8" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="mailto:goakmal3@gmail.com">
+      <img src="https://img.shields.io/badge/Email-goakmal3%40gmail.com-0b0d12?style=for-the-badge&logo=gmail&logoColor=f8fafc" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://discord.gg/P2ttcrbxB">
+      <img src="https://img.shields.io/badge/Discord-Community-0b0d12?style=for-the-badge&logo=discord&logoColor=5865F2" alt="Discord Community" />
+    </a>
+    &nbsp;
+    <a href="https://www.instagram.com/yazzan_sz/">
+      <img src="https://img.shields.io/badge/Instagram-%40yazzan__sz-0b0d12?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" />
+    </a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+### 👤 About Me
 
-I'm **Hidayat Nur Wahid** (also known as **Yazan**), a Full-Stack Web Developer and Linux/Infrastructure Enthusiast. I focus on building modular, end-to-end web applications—from crafting data models and robust backend APIs to delivering clean interfaces and configuring custom server deployments.
+I am **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack Developer** focused on building dependable web applications, structured backend services, and clean, responsive user interfaces.
 
-- 🔭 **Core Focus:** Full-Stack Web Apps (Laravel & Next.js), REST APIs, and Self-Hosted Infrastructure.
-- ⚡ **Environment:** Ricing Linux (CachyOS + Hyprland), Proxmox VE, Docker, and Zed Editor.
-- 🎯 **Current Focus:** Refining backend architectures, containerized micro-services, and competitive web development.
+My engineering workflow spans the complete software lifecycle:
+- **Backend Architecture:** Designing relational schemas, writing modular application logic in **Laravel** and **Node.js**, and building secure REST APIs.
+- **Frontend Development:** Crafting modern, accessible, and fast client-side applications with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.
+- **Data & Persistence:** Modeling normalized relational databases with **PostgreSQL**, **MySQL**, and **MariaDB**, along with document storage using **MongoDB**.
+- **System Environments:** Managing **Linux** systems, configuring **Docker** containers, and hosting self-managed server setups to understand application deployment end-to-end.
+
+I prioritize writing clean, maintainable code, solving real-world operational problems, and learning continuously by shipping practical software.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Technical Matrix
 
 <div align="center">
+  <img src="./assets/stack.svg" alt="Technical Matrix Overview" width="100%" />
+</div>
 
-| Category | Technologies |
+<br />
+
+| Domain | Verified Stack & Practical Technologies |
 | :--- | :--- |
-| **Languages** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) |
-| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black) |
-| **Backend & DB** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| **DevOps & Server** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Proxmox](https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) ![Tailscale](https://img.shields.io/badge/Tailscale-23272A?style=flat-square&logo=tailscale&logoColor=white) |
-
-</div>
+| **Frontend** | `JavaScript` · `TypeScript` · `React` · `Next.js` · `Tailwind CSS` · `Alpine.js` |
+| **Backend** | `PHP` · `Laravel 13` · `Node.js` · `Java` · `REST API Design` · `Authentication` |
+| **Mobile Development** | `Kotlin` · `Flutter` |
+| **Databases** | `PostgreSQL` · `MySQL` · `MariaDB` · `MongoDB` · `SQLite` |
+| **Tools & Infrastructure** | `Git` · `GitHub` · `Linux (CachyOS / Ubuntu)` · `Docker` · `Proxmox VE` |
 
 ---
 
-### 📌 Selected Work
+### 📌 Featured Projects
+
+Verified open-source repositories and applications engineered with modern full-stack workflows:
+
+<br />
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/WahidYazan/Flowbill">🧾 FlowBill</a></h3>
-      <p><strong>Invoicing for freelancers and small businesses</strong></p>
-      <p>A web application built to manage customer entities, generate invoices, track payment status, calculate multi-currency totals, and present dynamic revenue analytics.</p>
-      <p><sub><code>Laravel 13</code> · <code>PHP</code> · <code>Alpine.js</code> · <code>Tailwind CSS</code> · <code>SQLite</code></sub></p>
-      <p><a href="https://github.com/WahidYazan/Flowbill"><strong>View Repository ↗</strong></a></p>
+      <a href="https://github.com/WahidYazan/Flowbill">
+        <img src="./assets/project-flowbill.svg" alt="FlowBill Project Preview" width="100%" />
+      </a>
+      <h3><a href="https://github.com/WahidYazan/Flowbill">🧾 FlowBill — Invoicing Platform</a></h3>
+      <p>A streamlined invoicing and billing platform engineered for freelancers and small businesses. Facilitates client ledger management, payment tracking, automated total calculations, and revenue analytics.</p>
+      <p><sub><strong>Stack:</strong> <code>Laravel 13</code> · <code>PHP</code> · <code>Alpine.js</code> · <code>Tailwind CSS</code> · <code>SQLite / MySQL</code></sub></p>
+      <p>
+        <a href="https://github.com/WahidYazan/Flowbill"><strong>Explore Repository ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">
+        <img src="./assets/project-lms.svg" alt="LMS TKA PPLG Preview" width="100%" />
+      </a>
       <h3><a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">🎓 LMS TKA — PPLG</a></h3>
-      <p><strong>Learning platform for software engineering</strong></p>
-      <p>A web-based learning management system designed for PPLG students, focused on smooth navigation, responsive UI, and modular educational content.</p>
-      <p><sub><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code> · <code>Vercel</code></sub></p>
-      <p><a href="https://lms-tka-jurusan-pplg-2.vercel.app"><strong>Visit Live Site ↗</strong></a> &nbsp;·&nbsp; <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2"><strong>Source Code ↗</strong></a></p>
+      <p>A structured learning management system built for software engineering (PPLG) students. Features modular course outlines, curriculum progress tracking, assignments, and an intuitive responsive user experience.</p>
+      <p><sub><strong>Stack:</strong> <code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind CSS v4</code></sub></p>
+      <p>
+        <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2"><strong>Explore Repository ↗</strong></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">🚀 Coding from Zero</a></h3>
-      <p><strong>Interactive learning platform for beginners</strong></p>
-      <p>An intuitive programming roadmap platform created with Next.js and TypeScript to make coding fundamentals structured and accessible.</p>
-      <p><sub><code>Next.js</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></sub></p>
-      <p><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol"><strong>View Repository ↗</strong></a></p>
+      <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">
+        <img src="./assets/project-coding.svg" alt="Coding from Zero Preview" width="100%" />
+      </a>
+      <h3><a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">🚀 Coding from Zero (Platform Belajar)</a></h3>
+      <p>An interactive developer roadmap platform that organizes programming fundamentals into sequential, digestible concepts to guide beginners through their initial learning curves.</p>
+      <p><sub><strong>Stack:</strong> <code>Next.js 16</code> · <code>React 19</code> · <code>TypeScript</code> · <code>Tailwind CSS</code></sub></p>
+      <p>
+        <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol"><strong>Explore Repository ↗</strong></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🖥️ Homelab & Self-Hosted Infrastructure</h3>
-      <p><strong>Server administration & containerized services</strong></p>
-      <p>Hands-on operational management of Proxmox VE virtualization, Docker container orchestration, PaaS control panels (Coolify, 1Panel, Portainer), Cloudflare Tunnels, and Paper Minecraft server clusters.</p>
-      <p><sub><code>Linux</code> · <code>Docker</code> · <code>Proxmox VE</code> · <code>Tailscale</code></sub></p>
+      <a href="https://github.com/WahidYazan/School-Management-Saas">
+        <img src="./assets/project-school.svg" alt="School Management SaaS Preview" width="100%" />
+      </a>
+      <h3><a href="https://github.com/WahidYazan/School-Management-Saas">🏫 School Management SaaS</a></h3>
+      <p>A centralized academic administration system managing student records, faculty rosters, course schedules, and role-based permissions with a clean modular Laravel backend.</p>
+      <p><sub><strong>Stack:</strong> <code>Laravel 13</code> · <code>PHP</code> · <code>MySQL</code> · <code>Tailwind CSS</code></sub></p>
+      <p>
+        <a href="https://github.com/WahidYazan/School-Management-Saas"><strong>Explore Repository ↗</strong></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 Engineering Activity & Metrics
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=WahidYazan&show_icons=true&theme=catppuccin&hide_border=true&count_private=true" alt="WahidYazan GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidYazan&layout=compact&theme=catppuccin&hide_border=true&hide=html,css" alt="Top Languages" height="165" />
-
+  <img src="./assets/metrics.svg" alt="Developer Metrics Overview" width="100%" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahidYazan&theme=catppuccin&hide_border=true" alt="WahidYazan GitHub Streak" height="150" />
+  <a href="https://github.com/WahidYazan">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahidYazan&theme=dark&background=0b0d12&border=1e293b&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=f8fafc&sideLabels=94a3b8&currStreakLabel=94a3b8&dates=64748b" alt="WahidYazan GitHub Streak & Activity" />
+  </a>
 </div>
 
 ---
 
-### ⚙️ How I Build
+### ⚙️ Development Philosophy
 
-<table>
-  <tr>
-    <td width="25%" valign="top">
-      <strong>01 / Understand</strong><br />
-      Start from the business requirements, establish entity schemas, and design the minimal viable flow.
-    </td>
-    <td width="25%" valign="top">
-      <strong>02 / Engineer</strong><br />
-      Maintain modular architecture, strictly validate data input, and apply secure default configurations.
-    </td>
-    <td width="25%" valign="top">
-      <strong>03 / Refine</strong><br />
-      Optimize UI responsive behavior, ensure fast asset delivery, and refine small micro-interactions.
-    </td>
-    <td width="25%" valign="top">
-      <strong>04 / Deploy & Maintain</strong><br />
-      Automate build releases, manage container environments, and track server health on homelab nodes.
-    </td>
-  </tr>
-</table>
+```
+  01 / UNDERSTAND      Model entity relationships and validate data contracts before writing UI.
+  02 / MODULARIZE      Decouple routing, controllers, business rules, and presentation layers.
+  03 / OPTIMIZE        Refine client bundle sizes, query indexes, and mobile viewport accessibility.
+  04 / DELIVER         Automate containerized builds and deploy on stable Linux runtime environments.
+```
+
+- **Maintainability Over Cleverness:** Readable, well-structured code is easier to debug, review, and extend than obscure shortcuts.
+- **End-to-End Ownership:** Understanding both database constraints and frontend layout prevents misaligned API contracts.
+- **Learning Through Real Shipping:** Real engineering intuition is developed by resolving real build failures, schema migrations, and server bottlenecks.
+
+---
+
+### 📬 Connect & Community
+
+Feel free to reach out for project collaboration, technical discussions, or community inquiries:
+
+| Channel | Destination / Handle | Action |
+| :--- | :--- | :--- |
+| **Email** | `goakmal3@gmail.com` | <a href="mailto:goakmal3@gmail.com"><strong>Send Email ↗</strong></a> |
+| **Discord Community** | `discord.gg/P2ttcrbxB` | <a href="https://discord.gg/P2ttcrbxB"><strong>Join Server ↗</strong></a> |
+| **Discord Direct** | `yazanpet` | Contact via Discord |
+| **Instagram** | `@yazzan_sz` | <a href="https://www.instagram.com/yazzan_sz/"><strong>View Profile ↗</strong></a> |
+| **GitHub** | `@WahidYazan` | <a href="https://github.com/WahidYazan"><strong>Follow Repositories ↗</strong></a> |
 
 ---
 
 <div align="center">
-  <sub>Thoughtfully built. Continuously learning. Always shipping.</sub>
+  <sub><strong>Hidayat Nur Wahid</strong> · Engineered with precision, focus, and continuous curiosity.</sub>
 </div>
