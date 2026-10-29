@@ -1,4 +1,6 @@
-# Hi, I'm Wahid 👋
+<div align="center">
+
+# Hi, I'm Wahid (Yazan) 👋
 
 **Full-stack web developer · Laravel & Next.js · Home server & game server setup**
 
@@ -20,13 +22,8 @@ I build clean, responsive web apps, from SaaS dashboards to invoicing tools, and
 - 🎨 I care about modern, responsive UI built with **Tailwind CSS**
 - 🧾 I like building real-world tools: invoicing, school management, and online shops
 - 🖥️ I also set up **home servers**, **Minecraft servers** and **GTA V (FiveM) servers**
-- 🏠 Working from home
-
-<!--
-TODO (optional): add one or two lines you want visitors to see, for example:
-- 🌱 Currently learning: ...
-- 💬 Ask me about: Laravel, Next.js, self-hosting, game servers
--->
+- 🌱 Currently learning: Exploring more about local AI/LLM integrations
+- 💬 Ask me about: Laravel, Next.js, self-hosting, and setting up game servers
 
 ---
 
@@ -43,11 +40,9 @@ TODO (optional): add one or two lines you want visitors to see, for example:
 | **Backend** | PHP, Laravel, SQLite |
 | **Frontend** | JavaScript, TypeScript, React, Next.js, Alpine.js, Tailwind CSS, Blade |
 | **Tooling & Deploy** | Vite, Git, GitHub, Vercel |
-| **Servers** | Home server setup, Minecraft server, GTA V FiveM server |
+| **Servers** | Home server setup (Proxmox), Minecraft server (Paper), GTA V FiveM server (QBCore) |
 
 ---
-
-
 
 ## 🖥️ Servers & Self-Hosting
 
@@ -55,39 +50,27 @@ Beyond web development, I can set up and configure servers for you or your commu
 
 | | Service | What I do |
 | --- | --- | --- |
-| 🏠 | **Home Server** | Set up a server at home to host apps, files and other services |
-| ⛏️ | **Minecraft Server** | Create and configure Minecraft servers for friends or communities |
-| 🚗 | **FiveM (GTA V) Server** | Set up GTA V multiplayer servers with FiveM |
-
-<!--
-TODO (optional): make this section stronger by adding specifics, for example the
-tools you use (Docker, Pterodactyl, txAdmin, Linux/Windows), frameworks or
-plugins you work with, and whether you take on setup requests.
--->
+| 🏠 | **Home Server** | Set up a server at home to host apps, files and other services via Proxmox |
+| ⛏️ | **Minecraft Server** | Create and configure Minecraft servers (Paper) and custom plugins |
+| 🚗 | **FiveM (GTA V) Server** | Set up GTA V multiplayer servers with FiveM (QBCore framework) |
 
 ---
 
 ## 📫 Let's Connect
 
-<!--
-TODO: uncomment and fill in only the links you actually want to show.
-
-[![Email](https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-handle)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-handle)
--->
-
-[![GitHub](https://img.shields.io/badge/GitHub-WahidYazan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WahidYazan)
-
----
-
-<!--
-OPTIONAL STATS (add later, once your public activity grows):
+Feel free to reach out if you have a project idea, need server setups, or just want to collaborate!
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahidYazan&layout=compact&hide_border=true" alt="Top languages" />
+
+[![Email](https://img.shields.io/badge/Email-goakmal3@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goakmal3@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-yazzan__sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yazzan_sz/)
+[![Discord User](https://img.shields.io/badge/Discord-yazanpet-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![Discord Server](https://img.shields.io/badge/Discord_Community-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eDwd7n3Xks)
+[![GitHub](https://img.shields.io/badge/GitHub-WahidYazan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WahidYazan)
+
 </div>
--->
+
+---
 
 <div align="center">
 
