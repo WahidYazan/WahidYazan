@@ -49,27 +49,6 @@ TODO (optional): add one or two lines you want visitors to see, for example:
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 [FlowBill](https://github.com/WahidYazan/Flowbill)
-
-Simple, beautiful invoicing for freelancers and small businesses. Create invoices, track payments and share a public payment page with customers.
-
-- Live line-item editing with automatic totals, tax and discount
-- Draft → sent → paid flow with overdue detection
-- PDF export and multi-currency support (including IDR)
-- Dashboard analytics and tests
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🏫 [School Management SaaS](https://github.com/WahidYazan/School-Management-Saas)
