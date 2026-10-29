@@ -23,10 +23,10 @@
 
 ### 🪪 Developer Identity
 
-<table>
+<table align="left">
   <tr>
     <td width="50%" valign="top">
-      <h4 align="center">👤 Personal Profile</h4>
+      <h4 align="left">👤 Personal Profile</h4>
       <p>
         📛 <strong>Full Name:</strong> Hidayat Nur Wahid<br />
         ⚡ <strong>Known As:</strong> <code>Yazan</code><br />
@@ -36,7 +36,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4 align="center">🌐 Handles &amp; Coordinates</h4>
+      <h4 align="left">🌐 Handles &amp; Coordinates</h4>
       <p>
         🐙 <strong>GitHub:</strong> <a href="https://github.com/WahidYazan"><code>@WahidYazan</code></a><br />
         📫 <strong>Direct Email:</strong> <a href="mailto:goakmal3@gmail.com"><code>goakmal3@gmail.com</code></a><br />
