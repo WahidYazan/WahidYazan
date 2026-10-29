@@ -2,71 +2,85 @@
   <img src="assets/banner.svg" alt="Hidayat Nur Wahid — Full-stack web developer" width="100%" />
 
   <p>
-    <a href="https://github.com/WahidYazan?tab=repositories">Browse projects</a>
-    &nbsp;·&nbsp;
-    <a href="mailto:goakmal3@gmail.com">Email</a>
-    &nbsp;·&nbsp;
-    <a href="https://www.instagram.com/yazzan_sz/">Instagram</a>
+    <a href="https://github.com/WahidYazan?tab=repositories">ALL PROJECTS</a>
+    &nbsp; / &nbsp;
+    <a href="mailto:goakmal3@gmail.com">EMAIL</a>
+    &nbsp; / &nbsp;
+    <a href="https://www.instagram.com/yazzan_sz/">INSTAGRAM</a>
   </p>
 </div>
 
-## About
-
-I'm **Hidayat Nur Wahid**, a student developer focused on building web applications with **Laravel, React, and Next.js**. I enjoy working across the stack: shaping data models, implementing application logic, building responsive interfaces, and getting projects deployed.
-
-I aim to write software that solves a real problem without unnecessary complexity. Clear structure, useful feedback, and maintainable code matter to me as much as the final interface.
-
-## Selected projects
+## 01 — Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>01 &nbsp; / &nbsp; <a href="https://github.com/WahidYazan/Flowbill">FlowBill</a></strong></p>
-      <p>An invoicing app for freelancers and small businesses. Includes customer management, invoice workflows, multi-currency totals, and revenue analytics.</p>
-      <p><sub>Laravel · PHP · Alpine.js · Tailwind CSS · SQLite</sub></p>
-      <a href="https://github.com/WahidYazan/Flowbill">View source →</a>
+      <a href="https://github.com/WahidYazan/Flowbill"><img src="assets/project-flowbill.svg" alt="FlowBill — invoicing app project artwork" width="100%" /></a>
+      <h3>FlowBill</h3>
+      <p>An invoicing application for freelancers and small businesses. Covers customer records, invoice workflows, multi-currency totals, public invoice pages, and revenue analytics.</p>
+      <p><sub>PHP · Laravel · Alpine.js · Tailwind CSS · SQLite</sub></p>
+      <a href="https://github.com/WahidYazan/Flowbill">EXPLORE REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
-      <p><strong>02 &nbsp; / &nbsp; <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">LMS TKA / PPLG</a></strong></p>
-      <p>A learning-platform project for the TKA/PPLG context, developed as a modern web application and published online.</p>
+      <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2"><img src="assets/project-lms.svg" alt="LMS TKA/PPLG — learning platform project artwork" width="100%" /></a>
+      <h3>LMS TKA / PPLG</h3>
+      <p>A learning-platform project built for the TKA/PPLG context, with a live web deployment and a focus on the learning experience.</p>
       <p><sub>Next.js · TypeScript</sub></p>
-      <a href="https://lms-tka-jurusan-pplg-2.vercel.app">Open live site →</a> · <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">Source code</a>
+      <a href="https://lms-tka-jurusan-pplg-2.vercel.app">OPEN LIVE SITE ↗</a> · <a href="https://github.com/WahidYazan/LMS-TKA-JURUSAN-PPLG-2">SOURCE</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p><strong>03 &nbsp; / &nbsp; <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">Coding from Zero</a></strong></p>
-      <p>A learning-platform project focused on introducing programming fundamentals through a web-based experience.</p>
+      <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol"><img src="assets/project-coding.svg" alt="Coding from Zero — programming learning project artwork" width="100%" /></a>
+      <h3>Coding from Zero</h3>
+      <p>A web-based learning project centred on approachable programming fundamentals, structured lessons, and learning by building.</p>
       <p><sub>Next.js · TypeScript · Supabase</sub></p>
-      <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">View source →</a>
+      <a href="https://github.com/WahidYazan/Platform-Belajar-Coding-Dari-Nol">EXPLORE REPOSITORY ↗</a>
     </td>
     <td width="50%" valign="top">
-      <p><strong>What I like working on</strong></p>
-      <p>Backend workflows, database-backed products, thoughtful UI, and the practical side of deploying and maintaining applications.</p>
-      <p><sub>Application development · Data · Deployment</sub></p>
+      <h3>What I like building</h3>
+      <p>Useful workflows, database-backed applications, clear interfaces, and the practical systems needed to run software beyond a local machine.</p>
+      <p><sub>Application engineering · Data modelling · Deployment</sub></p>
+      <p><a href="https://github.com/WahidYazan?tab=repositories">Browse more projects →</a></p>
     </td>
   </tr>
 </table>
 
-## Stack
+## 02 — Technical toolkit
 
 <div align="center">
-  <img src="assets/stack.svg" alt="Technology stack: backend, frontend, databases, tools and mobile development." width="100%" />
+  <img src="assets/stack.svg" alt="Technical toolkit: backend, frontend, databases, mobile and delivery." width="100%" />
 </div>
 
-## Working principles
+## 03 — How I work
 
-| | |
-|:--|:--|
-| **Build for people** | Start with the problem and make the solution clear to use. |
-| **Keep it maintainable** | Prefer readable code and simple structures over accidental complexity. |
-| **Think beyond the happy path** | Validate input and consider how features behave when things go wrong. |
-| **Improve through practice** | Learn by shipping projects, reviewing decisions, and refining details. |
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>Understand the problem</strong>
+      <p>Start from the user and define the smallest useful solution.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Build with intention</strong>
+      <p>Prefer clear boundaries, validated inputs, and readable code.</p>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Improve the details</strong>
+      <p>Refine usability, responsive behaviour, and reliability through practice.</p>
+    </td>
+  </tr>
+</table>
+
+## 04 — About
+
+I'm **Hidayat Nur Wahid**, a student developer focused on **Laravel, React, and Next.js**. I enjoy working across the stack—from data models and backend logic to responsive interfaces and deployment.
+
+Outside web applications, I'm interested in mobile development, Linux hosting, and self-hosted services. I learn best by building projects, testing ideas, and improving what I have made.
 
 ## Contact
 
-Open to constructive feedback, project ideas, and learning opportunities.
+Have feedback, a project idea, or an opportunity to collaborate?
 
-**Email** [goakmal3@gmail.com](mailto:goakmal3@gmail.com) &nbsp;·&nbsp;
-**Instagram** [@yazzan_sz](https://www.instagram.com/yazzan_sz/) &nbsp;·&nbsp;
-**GitHub** [@WahidYazan](https://github.com/WahidYazan)
+**[Email](mailto:goakmal3@gmail.com)** &nbsp; / &nbsp;
+**[Instagram](https://www.instagram.com/yazzan_sz/)** &nbsp; / &nbsp;
+**[GitHub](https://github.com/WahidYazan)**
