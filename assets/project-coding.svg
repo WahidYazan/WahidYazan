@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Coding from Zero — Learn programming</title>
+  <desc id="desc">An editorial project cover for a programming learning platform, with a code editor and course outline illustration.</desc>
+  <defs><clipPath id="frame"><rect x="1" y="1" width="998" height="428" rx="10"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="430" fill="#151518"/>
+    <path d="M630 0L1000 0V430H850Z" fill="#1e1e23"/>
+    <text x="42" y="45" fill="#88aaff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">03 / LEARNING BY BUILDING</text>
+    <text x="40" y="94" fill="#f7f7f4" font-family="Inter, Arial, sans-serif" font-size="38" font-weight="800" letter-spacing="-1.2">Coding from Zero</text>
+    <text x="42" y="122" fill="#b2b2bc" font-family="Inter, Arial, sans-serif" font-size="15">Start with the basics. Build your understanding.</text>
+
+    <rect x="42" y="154" width="916" height="226" rx="8" fill="#202126" stroke="#3a3b44"/>
+    <rect x="42" y="154" width="916" height="29" rx="8" fill="#292a30"/>
+    <path d="M42 175H958" stroke="#3a3b44"/>
+    <circle cx="61" cy="168" r="4" fill="#ff7063"/>
+    <circle cx="75" cy="168" r="4" fill="#ffca58"/>
+    <circle cx="89" cy="168" r="4" fill="#73d49a"/>
+    <text x="500" y="172" text-anchor="middle" fill="#8d8f99" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5">lesson-01.ts</text>
+
+    <rect x="42" y="183" width="48" height="197" fill="#1a1b20"/>
+    <g fill="#6e707a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" text-anchor="end">
+      <text x="78" y="208">01</text><text x="78" y="232">02</text><text x="78" y="256">03</text>
+      <text x="78" y="280">04</text><text x="78" y="304">05</text><text x="78" y="328">06</text><text x="78" y="352">07</text>
+    </g>
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12.5">
+      <text x="110" y="208" fill="#c792ea">const</text><text x="154" y="208" fill="#f7f7f4"> learner = {</text>
+      <text x="130" y="232" fill="#9cdcfe"> goal:</text><text x="178" y="232" fill="#ce9178"> "understand the basics",</text>
+      <text x="130" y="256" fill="#9cdcfe"> practice:</text><text x="201" y="256" fill="#ce9178"> true,</text>
+      <text x="130" y="280" fill="#9cdcfe"> curiosity:</text><text x="208" y="280" fill="#dcdcaa"> Infinity,</text>
+      <text x="110" y="304" fill="#f7f7f4">};</text>
+      <text x="110" y="340" fill="#6a9955">// Learn one concept at a time.</text>
+      <text x="110" y="364" fill="#6a9955">// Turn knowledge into working code.</text>
+    </g>
+    <rect x="638" y="204" width="286" height="151" rx="5" fill="#f2f3f5"/>
+    <text x="658" y="228" fill="#282930" font-family="Inter, Arial, sans-serif" font-size="12" font-weight="800">Learning path</text>
+    <text x="658" y="250" fill="#71737d" font-family="Inter, Arial, sans-serif" font-size="10">Follow a path, not a pile of tutorials.</text>
+    <circle cx="667" cy="275" r="7" fill="#d6ff51"/>
+    <path d="M667 282V305" stroke="#c7c9cf" stroke-width="1.5"/>
+    <circle cx="667" cy="312" r="7" fill="#88aaff"/>
+    <path d="M667 319V339" stroke="#c7c9cf" stroke-width="1.5"/>
+    <circle cx="667" cy="345" r="7" fill="#d9dbe0"/>
+    <text x="685" y="279" fill="#272932" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700">Foundations</text>
+    <text x="685" y="316" fill="#272932" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700">Practice</text>
+    <text x="685" y="349" fill="#636671" font-family="Inter, Arial, sans-serif" font-size="10.5">Build a project</text>
+  </g>
+  <rect x=".75" y=".75" width="998.5" height="428.5" rx="10" fill="none" stroke="#3a3b44" stroke-width="1.5"/>
+</svg>
