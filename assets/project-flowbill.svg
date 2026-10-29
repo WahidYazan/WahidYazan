@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">FlowBill — Invoice management</title>
+  <desc id="desc">An editorial project cover showing an illustrative invoice dashboard layout.</desc>
+  <defs><clipPath id="frame"><rect x="1" y="1" width="998" height="428" rx="10"/></clipPath></defs>
+  <g clip-path="url(#frame)">
+    <rect width="1000" height="430" fill="#111214"/>
+    <circle cx="870" cy="60" r="220" fill="#ff6845" opacity=".08"/>
+    <text x="42" y="44" fill="#ff6845" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">01 / PRODUCT ENGINEERING</text>
+    <text x="40" y="94" fill="#f5f3ee" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="800" letter-spacing="-1.4">FlowBill</text>
+    <text x="42" y="122" fill="#b4b4b9" font-family="Inter, Arial, sans-serif" font-size="15">Invoicing, without the spreadsheet chaos.</text>
+
+    <rect x="42" y="154" width="916" height="226" rx="8" fill="#f8f7f3"/>
+    <rect x="42" y="154" width="165" height="226" fill="#f0efea"/>
+    <text x="60" y="181" fill="#202124" font-family="Inter, Arial, sans-serif" font-size="13" font-weight="800">flowbill.</text>
+    <path d="M58 198H191" stroke="#d9d8d2"/>
+    <rect x="57" y="213" width="135" height="28" rx="4" fill="#ffe7df"/>
+    <rect x="57" y="213" width="3" height="28" fill="#ff6845"/>
+    <text x="70" y="231" fill="#a23e28" font-family="Inter, Arial, sans-serif" font-size="10.5" font-weight="700">Overview</text>
+    <text x="70" y="264" fill="#73756f" font-family="Inter, Arial, sans-serif" font-size="10.5">Invoices</text>
+    <text x="70" y="290" fill="#73756f" font-family="Inter, Arial, sans-serif" font-size="10.5">Customers</text>
+    <text x="70" y="316" fill="#73756f" font-family="Inter, Arial, sans-serif" font-size="10.5">Analytics</text>
+    <text x="70" y="342" fill="#73756f" font-family="Inter, Arial, sans-serif" font-size="10.5">Settings</text>
+
+    <text x="232" y="184" fill="#202124" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="800">Overview</text>
+    <text x="232" y="201" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">A snapshot of your business</text>
+    <rect x="232" y="216" width="210" height="62" rx="5" fill="#ffffff" stroke="#e4e3dc"/>
+    <text x="246" y="234" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">TOTAL REVENUE</text>
+    <text x="246" y="258" fill="#222520" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Rp 24.8M</text>
+    <rect x="454" y="216" width="210" height="62" rx="5" fill="#ffffff" stroke="#e4e3dc"/>
+    <text x="468" y="234" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">OUTSTANDING</text>
+    <text x="468" y="258" fill="#222520" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Rp 6.2M</text>
+    <rect x="676" y="216" width="260" height="62" rx="5" fill="#ffffff" stroke="#e4e3dc"/>
+    <text x="690" y="234" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">INVOICES</text>
+    <text x="690" y="258" fill="#222520" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Manage in one place</text>
+
+    <text x="232" y="305" fill="#202124" font-family="Inter, Arial, sans-serif" font-size="11.5" font-weight="800">Recent invoices</text>
+    <path d="M232 316H936" stroke="#e4e3dc"/>
+    <text x="232" y="335" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">INVOICE</text>
+    <text x="390" y="335" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">CUSTOMER</text>
+    <text x="586" y="335" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">AMOUNT</text>
+    <text x="790" y="335" fill="#858780" font-family="Inter, Arial, sans-serif" font-size="9.5">STATUS</text>
+    <path d="M232 342H936" stroke="#e4e3dc"/>
+    <text x="232" y="360" fill="#31342e" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5">INV-0008</text>
+    <text x="390" y="360" fill="#31342e" font-family="Inter, Arial, sans-serif" font-size="9.5">Studio North</text>
+    <text x="586" y="360" fill="#31342e" font-family="Inter, Arial, sans-serif" font-size="9.5">Rp 2.400.000</text>
+    <rect x="790" y="349" width="48" height="16" rx="8" fill="#dff4e5"/>
+    <text x="814" y="360" text-anchor="middle" fill="#22643e" font-family="Inter, Arial, sans-serif" font-size="8.5" font-weight="700">PAID</text>
+  </g>
+  <rect x=".75" y=".75" width="998.5" height="428.5" rx="10" fill="none" stroke="#36373a" stroke-width="1.5"/>
+</svg>
