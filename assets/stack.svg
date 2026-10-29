@@ -1,72 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="424" viewBox="0 0 1200 424" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Technology toolkit</title>
-  <desc id="desc">A categorized overview of backend, frontend, data, and developer tooling skills.</desc>
+  <desc id="desc">A compact overview of application development, web interface, data, mobile and delivery technologies.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b121b"/>
-      <stop offset="1" stop-color="#101e2a"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101512"/>
+      <stop offset="1" stop-color="#17211b"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee"/>
-      <stop offset="1" stop-color="#38bdf8"/>
-    </linearGradient>
-    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
-      <path d="M24 0H0V24" fill="none" stroke="#9bb6cb" stroke-opacity=".04" stroke-width="1"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#b8d0c0" stroke-opacity=".035" stroke-width="1"/>
     </pattern>
   </defs>
-  <rect x=".75" y=".75" width="1198.5" height="422.5" rx="20" fill="url(#bg)" stroke="#284051" stroke-width="1.5"/>
-  <rect x="1" y="1" width="1198" height="422" rx="20" fill="url(#grid)"/>
-  <rect x="42" y="39" width="4" height="26" rx="2" fill="url(#accent)"/>
-  <text x="61" y="49" fill="#e8f2f8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="20" font-weight="700">Technology toolkit</text>
-  <text x="61" y="71" fill="#819aac" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="13">Tools I use to build, ship, and maintain applications.</text>
-  <text x="1157" y="54" text-anchor="end" fill="#658296" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="1.5">CORE STACK / 04 AREAS</text>
-  <path d="M42 94H1158" stroke="#2a4050"/>
+  <rect x=".75" y=".75" width="1198.5" height="428.5" rx="18" fill="url(#background)" stroke="#314338" stroke-width="1.5"/>
+  <rect x="1" y="1" width="1198" height="428" rx="18" fill="url(#grid)"/>
+  <path d="M42 39H69" stroke="#b4d7bf" stroke-width="2.5" stroke-linecap="round"/>
+  <text x="82" y="44" fill="#eef4ef" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="19" font-weight="700">Technology toolkit</text>
+  <text x="82" y="66" fill="#9aaba0" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">A practical set of tools for building and shipping software.</text>
+  <text x="1157" y="48" text-anchor="end" fill="#718679" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" letter-spacing="1.5">FOUR AREAS OF FOCUS</text>
+  <path d="M42 88H1158" stroke="#35473b"/>
 
-  <g transform="translate(42 116)">
-    <rect width="540" height="122" rx="13" fill="#0d1924" stroke="#263d4e"/>
-    <circle cx="24" cy="25" r="4" fill="#22d3ee"/>
-    <text x="38" y="29" fill="#b9eaf5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">BACKEND</text>
-    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
-      <rect x="22" y="48" width="97" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="70.5" y="72" fill="#e3f2f8">PHP</text>
-      <rect x="129" y="48" width="118" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="188" y="72" fill="#e3f2f8">Laravel</text>
-      <rect x="257" y="48" width="121" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="317.5" y="72" fill="#e3f2f8">Java</text>
-      <rect x="388" y="48" width="130" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="453" y="72" fill="#e3f2f8">REST APIs</text>
-    </g>
+  <g transform="translate(42 108)">
+    <rect width="548" height="132" rx="12" fill="#131b16" stroke="#34463a"/>
+    <rect x="20" y="21" width="3" height="18" rx="1.5" fill="#b4d7bf"/>
+    <text x="35" y="35" fill="#c7dfce" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5">APPLICATION DEVELOPMENT</text>
+    <text x="21" y="76" fill="#e8eee9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500">PHP  ·  Laravel  ·  Java  ·  API integration</text>
+    <text x="21" y="105" fill="#879a8d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">Backend logic, validation and application structure</text>
   </g>
 
-  <g transform="translate(600 116)">
-    <rect width="558" height="122" rx="13" fill="#0d1924" stroke="#263d4e"/>
-    <circle cx="24" cy="25" r="4" fill="#38bdf8"/>
-    <text x="38" y="29" fill="#b9eaf5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">FRONTEND</text>
-    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
-      <rect x="22" y="48" width="126" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="85" y="72" fill="#e3f2f8">TypeScript</text>
-      <rect x="158" y="48" width="112" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="214" y="72" fill="#e3f2f8">React</text>
-      <rect x="280" y="48" width="120" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="340" y="72" fill="#e3f2f8">Next.js</text>
-      <rect x="410" y="48" width="126" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="473" y="72" fill="#e3f2f8">Tailwind CSS</text>
-    </g>
+  <g transform="translate(610 108)">
+    <rect width="548" height="132" rx="12" fill="#131b16" stroke="#34463a"/>
+    <rect x="20" y="21" width="3" height="18" rx="1.5" fill="#b4d7bf"/>
+    <text x="35" y="35" fill="#c7dfce" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5">WEB &amp; INTERFACE</text>
+    <text x="21" y="76" fill="#e8eee9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500">JavaScript  ·  TypeScript  ·  React  ·  Next.js</text>
+    <text x="21" y="105" fill="#879a8d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">Tailwind CSS and responsive user interfaces</text>
   </g>
 
-  <g transform="translate(42 254)">
-    <rect width="540" height="122" rx="13" fill="#0d1924" stroke="#263d4e"/>
-    <circle cx="24" cy="25" r="4" fill="#38bdf8"/>
-    <text x="38" y="29" fill="#b9eaf5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">DATA &amp; STORAGE</text>
-    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
-      <rect x="22" y="48" width="116" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="80" y="72" fill="#e3f2f8">PostgreSQL</text>
-      <rect x="148" y="48" width="103" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="199.5" y="72" fill="#e3f2f8">MySQL</text>
-      <rect x="261" y="48" width="117" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="319.5" y="72" fill="#e3f2f8">MariaDB</text>
-      <rect x="388" y="48" width="130" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="453" y="72" fill="#e3f2f8">MongoDB</text>
-    </g>
+  <g transform="translate(42 258)">
+    <rect width="548" height="132" rx="12" fill="#131b16" stroke="#34463a"/>
+    <rect x="20" y="21" width="3" height="18" rx="1.5" fill="#b4d7bf"/>
+    <text x="35" y="35" fill="#c7dfce" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5">DATA &amp; PERSISTENCE</text>
+    <text x="21" y="76" fill="#e8eee9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="15.5" font-weight="500">PostgreSQL  ·  MySQL  ·  MariaDB  ·  MongoDB</text>
+    <text x="21" y="105" fill="#879a8d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">Relational data modelling and database-backed apps</text>
   </g>
 
-  <g transform="translate(600 254)">
-    <rect width="558" height="122" rx="13" fill="#0d1924" stroke="#263d4e"/>
-    <circle cx="24" cy="25" r="4" fill="#22d3ee"/>
-    <text x="38" y="29" fill="#b9eaf5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.4">TOOLS &amp; PLATFORM</text>
-    <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
-      <rect x="22" y="48" width="97" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="70.5" y="72" fill="#e3f2f8">Git</text>
-      <rect x="129" y="48" width="112" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="185" y="72" fill="#e3f2f8">GitHub</text>
-      <rect x="251" y="48" width="103" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="302.5" y="72" fill="#e3f2f8">Vite</text>
-      <rect x="364" y="48" width="172" height="39" rx="8" fill="#132633" stroke="#2b4b5d"/><text x="450" y="72" fill="#e3f2f8">Linux / Self-hosting</text>
-    </g>
+  <g transform="translate(610 258)">
+    <rect width="548" height="132" rx="12" fill="#131b16" stroke="#34463a"/>
+    <rect x="20" y="21" width="3" height="18" rx="1.5" fill="#b4d7bf"/>
+    <text x="35" y="35" fill="#c7dfce" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="1.5">MOBILE &amp; DELIVERY</text>
+    <text x="21" y="76" fill="#e8eee9" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="500">Kotlin  ·  Flutter  ·  Git  ·  Linux  ·  Docker</text>
+    <text x="21" y="105" fill="#879a8d" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="12.5">Version control, deployment and self-hosting</text>
   </g>
 </svg>
