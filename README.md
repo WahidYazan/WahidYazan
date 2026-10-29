@@ -63,6 +63,8 @@ I value good engineering over unnecessary complexity: readable code, secure defa
   <img src="assets/stack.svg" alt="Technology toolkit categorized into backend, frontend, data and storage, and tools and platform." width="100%" />
 </div>
 
+<p align="center"><sub>Additional tools and interests: JavaScript · Kotlin · Flutter · Alpine.js · Vercel</sub></p>
+
 ## How I build
 
 <table>
