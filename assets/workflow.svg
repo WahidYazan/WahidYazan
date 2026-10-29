@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Engineering Execution Pipeline</title>
+  <desc id="desc">Four-stage full-stack engineering workflow from data modeling to containerized deployment.</desc>
+  <defs>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="258" rx="12"/></clipPath>
+    <linearGradient id="pipeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="260" fill="#0b0d12"/>
+    <rect x="0" y="0" width="5" height="260" fill="url(#pipeGrad)"/>
+
+    <!-- Section Header -->
+    <text x="44" y="42" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">03 // ENGINEERING LIFECYCLE</text>
+    <text x="44" y="68" fill="#f8fafc" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="20" font-weight="800">Full-Stack Execution Pipeline</text>
+    <text x="350" y="68" fill="#64748b" font-family="Inter, -apple-system, BlinkMacSystemFont, sans-serif" font-size="13">A disciplined, production-minded methodology applied to every software build.</text>
+    <line x1="44" y1="88" x2="1156" y2="88" stroke="#1e293b" stroke-width="1"/>
+
+    <!-- 4 Pipeline Stages -->
+    <g transform="translate(44, 110)">
+      <!-- Stage 01 -->
+      <g transform="translate(0, 0)">
+        <rect x="0" y="0" width="255" height="120" rx="8" fill="#10141d" stroke="#1e293b"/>
+        <circle cx="24" cy="24" r="10" fill="#1e293b"/>
+        <text x="24" y="28" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700">01</text>
+        <text x="44" y="28" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2">SCHEMA &amp; CONTRACTS</text>
+        <text x="18" y="58" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13.5" font-weight="700">Relational Modeling</text>
+        <text x="18" y="78" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11.5">Define entity relationships, normalization, foreign keys &amp; DB constraints.</text>
+        <path d="M265 60L275 60" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      </g>
+
+      <!-- Stage 02 -->
+      <g transform="translate(285, 0)">
+        <rect x="0" y="0" width="255" height="120" rx="8" fill="#10141d" stroke="#1e293b"/>
+        <circle cx="24" cy="24" r="10" fill="#1e293b"/>
+        <text x="24" y="28" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700">02</text>
+        <text x="44" y="28" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2">BACKEND LOGIC</text>
+        <text x="18" y="58" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13.5" font-weight="700">REST APIs &amp; Auth</text>
+        <text x="18" y="78" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11.5">Implement modular controllers, validation rules &amp; secure RBAC policies.</text>
+        <path d="M265 60L275 60" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      </g>
+
+      <!-- Stage 03 -->
+      <g transform="translate(570, 0)">
+        <rect x="0" y="0" width="255" height="120" rx="8" fill="#10141d" stroke="#1e293b"/>
+        <circle cx="24" cy="24" r="10" fill="#1e293b"/>
+        <text x="24" y="28" text-anchor="middle" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700">03</text>
+        <text x="44" y="28" fill="#38bdf8" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2">CLIENT INTERFACES</text>
+        <text x="18" y="58" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13.5" font-weight="700">Responsive UI &amp; State</text>
+        <text x="18" y="78" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11.5">Type-safe components with Next.js, React 19 &amp; Tailwind design systems.</text>
+        <path d="M265 60L275 60" stroke="#38bdf8" stroke-width="2" stroke-linecap="round"/>
+      </g>
+
+      <!-- Stage 04 -->
+      <g transform="translate(855, 0)">
+        <rect x="0" y="0" width="255" height="120" rx="8" fill="#10141d" stroke="#1e293b"/>
+        <circle cx="24" cy="24" r="10" fill="#1e293b"/>
+        <text x="24" y="28" text-anchor="middle" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10" font-weight="700">04</text>
+        <text x="44" y="28" fill="#34d399" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2">DELIVERY &amp; RUNTIME</text>
+        <text x="18" y="58" fill="#f8fafc" font-family="Inter, sans-serif" font-size="13.5" font-weight="700">Linux &amp; Docker Deploy</text>
+        <text x="18" y="78" fill="#94a3b8" font-family="Inter, sans-serif" font-size="11.5">Containerized orchestration, reverse proxy configuration &amp; uptime tracking.</text>
+      </g>
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="258.5" rx="12" fill="none" stroke="#1e293b" stroke-width="1.5"/>
+</svg>
