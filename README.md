@@ -49,52 +49,7 @@ TODO (optional): add one or two lines you want visitors to see, for example:
 
 ---
 
-<td width="50%" valign="top">
 
-### 🏫 [School Management SaaS](https://github.com/WahidYazan/School-Management-Saas)
-
-A multi-school management system: one app serving many schools, with role-based access.
-
-- Roles: Super Admin, School Admin, Teacher, Student, Parent
-- Students, teachers, classes, majors and subjects management
-- Daily attendance, assignments and submissions, announcements
-- Landing page with features, pricing and contact form
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ [Wahid Coffee](https://github.com/WahidYazan/wahid-coffee)
-
-A coffee shop web application built with Laravel, styled with Tailwind CSS and bundled with Vite, with a Docker Compose setup included.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### ▲ [NextJs-Wahid](https://github.com/WahidYazan/NextJs-Wahid)
-
-A Next.js + TypeScript project deployed on Vercel. [Live demo](https://next-js-wahid.vercel.app)
-
-<!-- TODO: add 2-3 bullets about what this app does -->
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🖥️ Servers & Self-Hosting
 
