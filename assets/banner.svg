@@ -1,42 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Hidayat Nur Wahid — Developer profile</title>
-  <desc id="desc">An editorial portfolio banner with an ivory canvas, deep evergreen panel, and HNW monogram.</desc>
+  <title id="title">Hidayat Nur Wahid — Developer</title>
+  <desc id="desc">A bold editorial profile banner in white, black, electric blue and acid yellow.</desc>
   <defs>
-    <clipPath id="frame"><rect x="1" y="1" width="1198" height="318" rx="16"/></clipPath>
-    <pattern id="fine" width="12" height="12" patternUnits="userSpaceOnUse">
-      <path d="M12 0H0V12" fill="none" stroke="#3e5948" stroke-opacity=".12" stroke-width=".6"/>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="318" rx="8"/></clipPath>
+    <pattern id="grid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M22 0H0V22" fill="none" stroke="#ffffff" stroke-opacity=".09" stroke-width="1"/>
     </pattern>
   </defs>
   <g clip-path="url(#frame)">
-    <rect width="1200" height="320" fill="#f4f2eb"/>
-    <rect x="864" width="336" height="320" fill="#20392d"/>
-    <rect x="864" width="336" height="320" fill="url(#fine)"/>
-    <path d="M824 0H864V320H824Z" fill="#dce3d8"/>
-    <path d="M824 0H827V320H824Z" fill="#718a73"/>
-    <text x="58" y="56" fill="#597160" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="600" letter-spacing="2">DEVELOPER PROFILE</text>
-    <path d="M58 75H98" stroke="#406b4f" stroke-width="2.5" stroke-linecap="round"/>
-    <text x="56" y="132" fill="#1f2b22" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="45" font-weight="720" letter-spacing="-1.8">Hidayat Nur Wahid</text>
-    <text x="59" y="172" fill="#315d42" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="18" font-weight="650" letter-spacing=".25">FULL-STACK WEB DEVELOPER</text>
-    <text x="59" y="205" fill="#5f6b61" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14.5">Building useful applications with clear interfaces</text>
-    <text x="59" y="226" fill="#5f6b61" font-family="Inter, ui-sans-serif, system-ui, -apple-system, Segoe UI, sans-serif" font-size="14.5">and maintainable foundations.</text>
-    <path d="M59 252H800" stroke="#d8dcd2" stroke-width="1"/>
-    <text x="59" y="278" fill="#657568" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.1">LARAVEL</text>
-    <circle cx="127" cy="274" r="2" fill="#8b9b8a"/>
-    <text x="140" y="278" fill="#657568" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.1">REACT / NEXT.JS</text>
-    <circle cx="274" cy="274" r="2" fill="#8b9b8a"/>
-    <text x="287" y="278" fill="#657568" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.1">WEB APPLICATIONS</text>
+    <rect width="1200" height="320" fill="#f7f8fa"/>
+    <rect x="0" y="0" width="10" height="320" fill="#2457ff"/>
+    <path d="M56 46H92" stroke="#2457ff" stroke-width="4"/>
+    <text x="108" y="51" fill="#454b57" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.4">DEVELOPER PROFILE</text>
+    <text x="56" y="120" fill="#111318" font-family="Inter, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="-1.8">Hidayat Nur Wahid</text>
+    <text x="58" y="157" fill="#2457ff" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="750" letter-spacing=".7">FULL-STACK WEB DEVELOPER</text>
+    <text x="58" y="194" fill="#4b515b" font-family="Inter, Arial, sans-serif" font-size="15.5">I build practical web applications, from backend logic</text>
+    <text x="58" y="216" fill="#4b515b" font-family="Inter, Arial, sans-serif" font-size="15.5">and data models to interfaces and deployment.</text>
+    <path d="M58 247H755" stroke="#d8dce3" stroke-width="1.2"/>
+    <text x="58" y="278" fill="#343a45" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">LARAVEL</text>
+    <circle cx="132" cy="274" r="2.5" fill="#2457ff"/>
+    <text x="146" y="278" fill="#343a45" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">REACT</text>
+    <circle cx="210" cy="274" r="2.5" fill="#2457ff"/>
+    <text x="224" y="278" fill="#343a45" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">NEXT.JS</text>
+    <circle cx="304" cy="274" r="2.5" fill="#2457ff"/>
+    <text x="318" y="278" fill="#343a45" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="1.2">DATABASES</text>
+    <text x="754" y="302" text-anchor="end" fill="#8a909a" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9.5" letter-spacing="1.1">DESIGN / BUILD / REFINE</text>
 
-    <g transform="translate(1032 153)">
-      <circle r="92" fill="none" stroke="#8da995" stroke-opacity=".3" stroke-width="1"/>
-      <circle r="77" fill="none" stroke="#b8c9b8" stroke-opacity=".7" stroke-width="1"/>
-      <circle r="62" fill="none" stroke="#8da995" stroke-opacity=".3" stroke-width="1"/>
-      <path d="M-110 0H-94M94 0H110M0 -110V-94M0 94V110" stroke="#c9d6c9" stroke-opacity=".8" stroke-width="1.2"/>
-      <path d="M-37 -31H-46V31H-37M37 -31H46V31H37" fill="none" stroke="#b5c8b6" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="0" y="12" text-anchor="middle" fill="#f3f1e8" font-family="Georgia, 'Times New Roman', serif" font-size="37" letter-spacing="-1.8">HNW</text>
-      <path d="M-26 43H26" stroke="#a8c2ab" stroke-width="1.5" stroke-linecap="round"/>
-      <text x="0" y="62" text-anchor="middle" fill="#a9bdab" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="8" letter-spacing="2">BUILD / REFINE</text>
-    </g>
-    <text x="1146" y="290" text-anchor="end" fill="#b5c6b5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="9" letter-spacing="1.1">PORTFOLIO / 2026</text>
+    <rect x="824" y="0" width="376" height="320" fill="#2457ff"/>
+    <rect x="824" y="0" width="376" height="320" fill="url(#grid)"/>
+    <path d="M854 30H1170M854 290H1170" stroke="#ffffff" stroke-opacity=".35" stroke-width="1"/>
+    <text x="854" y="54" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" font-weight="700" letter-spacing="2">CODE WITH INTENT</text>
+    <rect x="854" y="82" width="11" height="11" fill="#d8ff3e"/>
+    <rect x="871" y="82" width="11" height="11" fill="#ffffff" fill-opacity=".55"/>
+    <rect x="888" y="82" width="11" height="11" fill="#ffffff" fill-opacity=".25"/>
+    <text x="846" y="194" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="108" font-weight="850" letter-spacing="-9">WY.</text>
+    <path d="M856 218H1158" stroke="#ffffff" stroke-opacity=".45" stroke-width="1.2"/>
+    <text x="856" y="244" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="1.3">THOUGHTFUL SOFTWARE</text>
+    <text x="856" y="265" fill="#e2e8ff" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="10.5" letter-spacing="1">CLEAR · USEFUL · MAINTAINABLE</text>
+    <rect x="1139" y="272" width="31" height="18" fill="#d8ff3e"/>
+    <path d="M1147 281H1161M1154 274V288" stroke="#111318" stroke-width="1.5"/>
   </g>
-  <rect x=".75" y=".75" width="1198.5" height="318.5" rx="16" fill="none" stroke="#d7ddd2" stroke-width="1.5"/>
+  <rect x=".75" y=".75" width="1198.5" height="318.5" rx="8" fill="none" stroke="#dfe2e8" stroke-width="1.5"/>
 </svg>
