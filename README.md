@@ -23,7 +23,7 @@
 
 ### 🪪 Developer Identity
 
-<table align="left">
+<table align="center">
   <tr>
     <td width="50%" valign="top">
       <h4 align="left">👤 Personal Profile</h4>
