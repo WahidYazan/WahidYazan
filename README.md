@@ -28,21 +28,21 @@
     <td width="50%" valign="top">
       <h4 align="left">👤 Personal Profile</h4>
       <p>
-        📛 <strong>Full Name:</strong> Hidayat Nur Wahid<br />
-        ⚡ <strong>Known As:</strong> <code>Yazan</code><br />
-        💼 <strong>Role:</strong> Full-Stack Developer<br />
-        🐧 <strong>Operating System:</strong> Linux (CachyOS)<br />
-        🎯 <strong>Focus:</strong> Scalable Web Applications &amp; Backend APIs
+        <strong>Full Name:</strong> Hidayat Nur Wahid<br />
+        <strong>Known As:</strong> <code>Yazan</code><br />
+        <strong>Role:</strong> Full-Stack Developer<br />
+        <strong>Operating System:</strong> Linux (CachyOS)<br />
+        <strong>Focus:</strong> Scalable Web Applications &amp; Backend APIs
       </p>
     </td>
     <td width="50%" valign="top">
       <h4 align="left">🌐 Handles &amp; Coordinates</h4>
       <p>
-        🐙 <strong>GitHub:</strong> <a href="https://github.com/WahidYazan"><code>@WahidYazan</code></a><br />
-        📫 <strong>Direct Email:</strong> <a href="mailto:goakmal3@gmail.com"><code>goakmal3@gmail.com</code></a><br />
-        💬 <strong>Discord:</strong> <code>yazanpet</code> &bull; <a href="https://discord.gg/P2ttcrbxB">Community Server</a><br />
-        📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/yazzan_sz/"><code>@yazzan_sz</code></a><br />
-        🟢 <strong>Status:</strong> Active &amp; Open for Engineering Projects
+        <strong>GitHub:</strong> <a href="https://github.com/WahidYazan"><code>@WahidYazan</code></a><br />
+        <strong>Direct Email:</strong> <a href="mailto:goakmal3@gmail.com"><code>goakmal3@gmail.com</code></a><br />
+        <strong>Discord:</strong> <code>yazanpet</code> &bull; <a href="https://discord.gg/P2ttcrbxB">Community Server</a><br />
+        <strong>Instagram:</strong> <a href="https://www.instagram.com/yazzan_sz/"><code>@yazzan_sz</code></a><br />
+        <strong>Status:</strong> Active &amp; Open for Engineering Projects
       </p>
     </td>
   </tr>
