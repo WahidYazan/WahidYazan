@@ -41,7 +41,7 @@
       <circle r="56" fill="none" stroke="#94b49d" stroke-opacity=".23" stroke-width="1"/>
       <path d="M-108 0H-74M74 0H108M0 -108V-74M0 74V108" stroke="#a6c9b1" stroke-opacity=".55" stroke-width="1.2"/>
       <path d="M-35 -30H-43V30H-35M35 -30H43V30H35" fill="none" stroke="#8eb69b" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="0" y="14" text-anchor="middle" fill="url(#sage)" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="400" letter-spacing="-2">HN</text>
+      <text x="0" y="14" text-anchor="middle" fill="url(#sage)" font-family="Georgia, 'Times New Roman', serif" font-size="33" font-weight="400" letter-spacing="-1">HNW</text>
       <circle cx="64" cy="-65" r="3" fill="#c2dfcb"/>
       <circle cx="-65" cy="64" r="2.5" fill="#789d86"/>
     </g>
