@@ -72,6 +72,8 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
 
 <br />
 
+<div align="center">
+  
 | Domain | Technologies |
 | :--- | :--- |
 | **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js |
@@ -79,6 +81,8 @@ I am a **Full-Stack Developer** with hands-on experience building end-to-end web
 | **Mobile Development** | Kotlin, Flutter |
 | **Databases** | PostgreSQL, MySQL, MariaDB, MongoDB, SQLite |
 | **DevOps & Systems** | Linux (CachyOS / Ubuntu), Docker, Proxmox VE, Git, GitHub |
+
+</div>
 
 ---
 
