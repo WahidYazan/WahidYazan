@@ -1,5 +1,3 @@
-	<div align="center">
-
 # Hi, I'm Wahid 👋
 
 **Full-stack web developer · Laravel & Next.js · Home server & game server setup**
