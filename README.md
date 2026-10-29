@@ -1,31 +1,72 @@
-<img src="assets/banner.svg" alt="Hidayat Nur Wahid, Full-Stack Web Developer" width="100%">
+<div align="center">
 
-I build reliable web applications from backend logic to deployment, and I set up servers for hosting and gaming.
+  <img src="assets/banner.svg" alt="Hidayat Nur Wahid — Full-Stack Web Developer" width="100%" />
 
-[Email](mailto:goakmal3@gmail.com) &nbsp;·&nbsp; [Instagram](https://www.instagram.com/yazzan_sz/)
+  <p><strong>Full-Stack Developer · Web Applications · Infrastructure</strong></p>
+
+  <p>
+    I build thoughtful, reliable web applications — from data models and backend logic<br />
+    to polished interfaces, deployment, and the systems that keep them running.
+  </p>
+
+  <p>
+    <a href="https://github.com/WahidYazan?tab=repositories">Explore my projects</a>
+    &nbsp;·&nbsp;
+    <a href="https://www.instagram.com/yazzan_sz/">Instagram</a>
+    &nbsp;·&nbsp;
+    <a href="mailto:goakmal3@gmail.com">Get in touch</a>
+  </p>
+
+</div>
+
+---
 
 ## About
 
-Full-stack web developer working primarily with **Laravel** and **Next.js**. I build business applications such as multi-tenant management systems and invoicing platforms, covering database modeling, authentication, role-based authorization and the frontend that sits on top of them.
+I'm Hidayat Nur Wahid, a developer focused on building practical, maintainable software. My main stack is **Laravel, PHP, React, and Next.js**.
 
-I care about secure defaults, server-side validation and tested business logic.
+I enjoy working across the full application lifecycle: designing data models, implementing authentication and role-based access, building clear user experiences, and deploying applications to real environments.
 
-## Tech Stack
+My approach is simple: **keep the experience clear, the implementation maintainable, and the foundations reliable.**
 
-<img src="assets/stack.svg" alt="Tech stack. Backend: PHP, Laravel, SQLite. Frontend: TypeScript, JavaScript, React, Next.js, Tailwind CSS, Alpine.js. Tooling: Git, GitHub, Vite, Vercel." width="420">
+## Technology
 
-## Server & Infrastructure
+<div align="center">
+  <img src="assets/stack.svg" alt="Technology stack: PHP, Laravel, SQLite, TypeScript, JavaScript, React, Next.js, Tailwind CSS, Alpine.js, Git, GitHub, Vite, and Vercel." width="420" />
+</div>
 
-Alongside web development, I set up and configure servers for personal use, friends and communities.
+| Area | Focus |
+| --- | --- |
+| **Backend** | PHP, Laravel, API design, authentication, authorization |
+| **Frontend** | TypeScript, JavaScript, React, Next.js, Tailwind CSS |
+| **Data** | Relational database design, SQL, SQLite |
+| **Tools** | Git, GitHub, Vite, Vercel |
 
-- **Home server:** planning, installing and configuring a server at home to host applications, files and services.
-- **Minecraft server:** setting up and configuring servers for friends and communities.
-- **FiveM server:** setting up GTA V multiplayer servers with FiveM.
+## Beyond the application
 
-## Contact
+I also enjoy learning about the infrastructure behind software and helping projects run beyond a local development environment.
 
-I'm open to collaboration and project inquiries.
+- **Self-hosting:** configuring Linux servers and services for personal projects.
+- **Minecraft communities:** setting up and maintaining multiplayer server environments.
+- **FiveM:** configuring multiplayer server environments and related resources.
+
+## What I value
+
+- **Maintainability** — code and structure that remain understandable as projects grow.
+- **Reliability** — sensible validation, secure defaults, and predictable behavior.
+- **Usability** — interfaces that feel clear, consistent, responsive, and intentional.
+- **Continuous learning** — improving through building, testing, and refining real projects.
+
+## Connect
+
+Have an idea, a project, or an opportunity to collaborate? Feel free to reach out.
 
 - **Email:** [goakmal3@gmail.com](mailto:goakmal3@gmail.com)
 - **Instagram:** [@yazzan_sz](https://www.instagram.com/yazzan_sz/)
-- **GitHub:** [WahidYazan](https://github.com/WahidYazan)
+- **GitHub:** [@WahidYazan](https://github.com/WahidYazan)
+
+---
+
+<div align="center">
+  <sub>Designed with care · Built with curiosity · Always improving</sub>
+</div>
