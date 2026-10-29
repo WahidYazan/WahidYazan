@@ -4,24 +4,12 @@ import {
   Check, 
   ExternalLink, 
   Code2, 
-  Eye, 
-  Terminal, 
-  Sparkles,
-  Mail,
-  MessageSquare
+  Eye
 } from 'lucide-react';
 
 const GithubIcon = ({ size = 16, className = "" }: { size?: number; className?: string }) => (
   <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
     <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
-  </svg>
-);
-
-const InstagramIcon = ({ size = 16, className = "" }: { size?: number; className?: string }) => (
-  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className={className}>
-    <rect width="20" height="20" x="2" y="2" rx="5" ry="5"></rect>
-    <path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"></path>
-    <line x1="17.5" x2="17.51" y1="6.5" y2="6.5"></line>
   </svg>
 );
 
@@ -31,78 +19,85 @@ export default function App() {
 
   const fullMarkdown = `<div align="center">
 
-  <img src="./assets/banner.svg" alt="Hidayat Nur Wahid — Full-Stack Developer Banner" width="100%" />
+  <h1>Hidayat Nur Wahid</h1>
+  <p><strong>Full-Stack Developer</strong> &bull; <code>@WahidYazan</code></p>
+  
+  <p>
+    Passionate about crafting scalable backend APIs, modern web applications, and intuitive user experiences.
+  </p>
 
-  <br /><br />
-
-  <p align="center">
-    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <p>
     <a href="mailto:goakmal3@gmail.com"><img src="https://img.shields.io/badge/Email-goakmal3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    &nbsp;
     <a href="https://discord.gg/P2ttcrbxB"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Community" /></a>
-    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-yazzan__sz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    &nbsp;
+    <a href="https://www.instagram.com/yazzan_sz/"><img src="https://img.shields.io/badge/Instagram-@yazzan__sz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    &nbsp;
+    <a href="https://github.com/WahidYazan"><img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
 </div>
 
 ---
 
+### 🪪 Developer Identity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="left">👤 Personal Profile</h4>
+      <p>
+        📛 <strong>Full Name:</strong> Hidayat Nur Wahid<br />
+        ⚡ <strong>Known As:</strong> <code>Yazan</code><br />
+        💼 <strong>Role:</strong> Full-Stack Developer<br />
+        🐧 <strong>Operating System:</strong> Windows 11<br />
+        🎯 <strong>Focus:</strong> Scalable Web Applications &amp; Backend APIs
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="left">🌐 Handles &amp; Coordinates</h4>
+      <p>
+        🐙 <strong>GitHub:</strong> <a href="https://github.com/WahidYazan"><code>@WahidYazan</code></a><br />
+        📫 <strong>Direct Email:</strong> <a href="mailto:goakmal3@gmail.com"><code>goakmal3@gmail.com</code></a><br />
+        💬 <strong>Discord:</strong> <code>yazanpet</code> &bull; <a href="https://discord.gg/P2ttcrbxB">Community Server</a><br />
+        📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/yazzan_sz/"><code>@yazzan_sz</code></a><br />
+        🟢 <strong>Status:</strong> Active &amp; Open for Engineering Projects
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 👨‍💻 About Me
 
-Hi there! I'm **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack Developer** passionate about building clean web applications, developing scalable backend systems, and crafting smooth user experiences.
+I am a **Full-Stack Developer** with hands-on experience building end-to-end web applications, designing database schemas, and managing self-hosted server infrastructure.
 
-- 🔭 I focus on end-to-end web development with **Laravel** and **Next.js**.
-- 🛠️ Daily driver: **TypeScript**, **PHP**, **React**, and **Tailwind CSS**.
-- 🗄️ Database modeling with **PostgreSQL**, **MySQL**, **MariaDB**, and **MongoDB**.
-- 🐧 Linux & self-hosting enthusiast running **CachyOS**, **Docker**, and **Proxmox VE**.
-- 🎯 Philosophy: Write readable code, understand systems end-to-end, and learn by shipping practical software.
-- 💬 Ask me about full-stack web development, REST APIs, databases, or Linux.
-- 📫 How to reach me: **[goakmal3@gmail.com](mailto:goakmal3@gmail.com)** or Discord **\`yazanpet\`**.
+- 🔭 **Current Focus:** Building production-ready applications with **Laravel** and **Next.js**.
+- 🛠️ **Languages & Core:** **TypeScript**, **JavaScript**, **PHP**, and **Java**.
+- 🎨 **Frontend:** **React**, **Next.js**, and **Tailwind CSS**.
+- 🗄️ **Databases:** **PostgreSQL**, **MySQL**, **MariaDB**, and **MongoDB**.
+- 🐧 **Environment:** Power user of **Windows 11**, containerization with **Docker**, and virtualization with **Proxmox VE**.
+- 🎯 **Philosophy:** Write readable code, understand systems end-to-end, and learn by shipping practical software.
+- 💬 **Ask me about:** Full-stack architecture, REST API design, database normalization, or Linux setups.
 
 ---
 
 ### 🛠️ Tech Stack & Toolkit
 
-#### 💻 Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,php,laravel,nodejs,java,kotlin,flutter,postgres,mysql,mongodb,linux,docker,git,github&perline=9&theme=dark" alt="Hidayat Nur Wahid Tech Stack" />
+</div>
 
-#### ⚙️ Backend & API
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-</p>
+<br />
 
-#### 📱 Mobile Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
-#### 🐧 Tools & DevOps
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js |
+| **Backend & APIs** | PHP, Laravel, Node.js, Java, RESTful API Architecture, Authentication |
+| **Mobile Development** | Kotlin, Flutter |
+| **Databases** | PostgreSQL, MySQL, MariaDB, MongoDB, SQLite |
+| **DevOps & Systems** | Linux (CachyOS / Ubuntu), Docker, Proxmox VE, Git, GitHub |
 
 ---
 
@@ -116,34 +111,11 @@ Hi there! I'm **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack De
 
 ---
 
-### 📬 Connect With Me
-
-<p align="center">
-  <a href="mailto:goakmal3@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-goakmal3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://discord.gg/P2ttcrbxB">
-    <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" />
-  </a>
-  &nbsp;
-  <a href="https://www.instagram.com/yazzan_sz/">
-    <img src="https://img.shields.io/badge/Instagram-@yazzan__sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/WahidYazan">
-    <img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Discord Username: <strong>yazanpet</strong></sub>
-</p>
-
----
-
 <div align="center">
-  <sub>⭐️ Designed with simplicity &amp; focus · <strong>Hidayat Nur Wahid</strong></sub>
+  <p>
+    Discord Direct: <code>yazanpet</code> &bull; Server: <a href="https://discord.gg/P2ttcrbxB">discord.gg/P2ttcrbxB</a>
+  </p>
+  <sub>⭐️ Designed with simplicity &amp; focus &bull; <strong>Hidayat Nur Wahid</strong></sub>
 </div>`;
 
   const copyToClipboard = () => {
@@ -226,27 +198,132 @@ Hi there! I'm **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack De
 
         {/* TAB 1: PREVIEW */}
         {activeTab === 'preview' && (
-          <div className="bg-[#0d1117] border border-[#30363d] rounded-xl p-6 sm:p-8 space-y-8 shadow-sm">
-            {/* Banner */}
-            <div className="rounded-lg overflow-hidden border border-[#30363d]">
-              <img src="/assets/banner.svg" alt="Banner" className="w-full h-auto block" />
+          <div className="bg-[#0d1117] border border-[#30363d] rounded-xl p-6 sm:p-10 space-y-8 shadow-sm">
+            
+            {/* Pure Text Hero Header */}
+            <div className="text-center space-y-3 pb-2">
+              <h1 className="text-2xl sm:text-3xl font-extrabold text-white tracking-tight">
+                Hidayat Nur Wahid
+              </h1>
+              <p className="text-sm sm:text-base text-[#cbd5e1]">
+                <strong className="text-white font-semibold">Full-Stack Developer</strong>
+              </p>
+              <p className="text-xs sm:text-sm text-[#8b949e] max-w-xl mx-auto">
+                Passionate about crafting scalable backend APIs, modern web applications, and intuitive user experiences.
+              </p>
+
+              {/* Verified Channels (Single Unified Row) */}
+              <div className="flex flex-wrap items-center justify-center gap-2 pt-2">
+                <a href="mailto:goakmal3@gmail.com">
+                  <img src="https://img.shields.io/badge/Email-goakmal3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+                </a>
+                <a href="https://discord.gg/P2ttcrbxB" target="_blank" rel="noreferrer">
+                  <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+                </a>
+                <a href="https://www.instagram.com/yazzan_sz/" target="_blank" rel="noreferrer">
+                  <img src="https://img.shields.io/badge/Instagram-@yazzan__sz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+                </a>
+                <a href="https://github.com/WahidYazan" target="_blank" rel="noreferrer">
+                  <img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+                </a>
+              </div>
             </div>
 
-            {/* Badges */}
-            <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
-              <a href="https://github.com/WahidYazan" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-              </a>
-              <a href="mailto:goakmal3@gmail.com">
-                <img src="https://img.shields.io/badge/Email-goakmal3%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-              </a>
-              <a href="https://discord.gg/P2ttcrbxB" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-              </a>
-              <a href="https://www.instagram.com/yazzan_sz/" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Instagram-yazzan__sz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-              </a>
-            </div>
+            <hr className="border-[#30363d]" />
+
+            {/* Developer Identity Card Layout */}
+            <section className="space-y-3">
+              <div className="flex items-center justify-between">
+                <h3 className="text-lg font-bold text-white flex items-center gap-2">
+                  <span>🪪</span> Developer Identity
+                </h3>
+                <span className="text-xs font-mono px-2.5 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20 flex items-center gap-1.5">
+                  <span className="w-1.5 h-1.5 rounded-full bg-emerald-400 animate-pulse"></span>
+                  Active &bull; Verified
+                </span>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                {/* Column 1: Personal & Role Profile */}
+                <div className="bg-[#161b22] border border-[#30363d] rounded-xl p-4 sm:p-5 space-y-3 hover:border-[#38bdf8]/40 transition-colors">
+                  <div className="flex items-center gap-2 text-white font-semibold text-sm border-b border-[#30363d] pb-2.5">
+                    <span className="text-base">👤</span> Personal Profile
+                  </div>
+
+                  <div className="space-y-2.5 text-xs sm:text-sm">
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Full Name</span>
+                      <span className="text-white font-semibold">Hidayat Nur Wahid</span>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Known As</span>
+                      <span className="text-[#38bdf8] font-mono font-medium bg-[#0d1117] px-2 py-0.5 rounded border border-[#38bdf8]/30">Yazan</span>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Professional Role</span>
+                      <span className="text-emerald-400 font-medium">Full-Stack Developer</span>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Operating System</span>
+                      <span className="text-[#cbd5e1] font-mono text-xs bg-[#0d1117] px-2 py-0.5 rounded border border-[#30363d]">Windows 11</span>
+                    </div>
+
+                    <div className="flex justify-between items-start py-1">
+                      <span className="text-[#8b949e]">Core Focus</span>
+                      <span className="text-right text-[#c9d1d9] text-xs max-w-[200px]">Scalable Web Apps &amp; Backend APIs</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Column 2: Handles & Coordinates */}
+                <div className="bg-[#161b22] border border-[#30363d] rounded-xl p-4 sm:p-5 space-y-3 hover:border-[#38bdf8]/40 transition-colors">
+                  <div className="flex items-center gap-2 text-white font-semibold text-sm border-b border-[#30363d] pb-2.5">
+                    <span className="text-base">🌐</span> Handles &amp; Coordinates
+                  </div>
+
+                  <div className="space-y-2.5 text-xs sm:text-sm">
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">GitHub</span>
+                      <a href="https://github.com/WahidYazan" target="_blank" rel="noreferrer" className="text-[#58a6ff] hover:underline font-mono text-xs flex items-center gap-1">
+                        @WahidYazan <ExternalLink size={11} />
+                      </a>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Direct Email</span>
+                      <a href="mailto:goakmal3@gmail.com" className="text-[#58a6ff] hover:underline font-mono text-xs">
+                        goakmal3@gmail.com
+                      </a>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Discord</span>
+                      <div className="flex items-center gap-1.5 font-mono text-xs">
+                        <span className="text-[#a5d6ff] bg-[#0d1117] px-1.5 py-0.5 rounded border border-[#30363d]">yazanpet</span>
+                        <a href="https://discord.gg/P2ttcrbxB" target="_blank" rel="noreferrer" className="text-[#5865F2] hover:underline">server</a>
+                      </div>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1 border-b border-[#30363d]/40">
+                      <span className="text-[#8b949e]">Instagram</span>
+                      <a href="https://www.instagram.com/yazzan_sz/" target="_blank" rel="noreferrer" className="text-[#E4405F] hover:underline font-mono text-xs flex items-center gap-1">
+                        @yazzan_sz <ExternalLink size={11} />
+                      </a>
+                    </div>
+
+                    <div className="flex justify-between items-center py-1">
+                      <span className="text-[#8b949e]">Status</span>
+                      <span className="text-xs text-[#3fb950] font-medium flex items-center gap-1">
+                        🟢 Open for engineering projects
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </section>
 
             <hr className="border-[#30363d]" />
 
@@ -256,79 +333,88 @@ Hi there! I'm **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack De
                 <span>👨‍💻</span> About Me
               </h3>
               <p className="text-sm leading-relaxed text-[#c9d1d9]">
-                Hi there! I'm <strong className="text-white">Hidayat Nur Wahid</strong> (also known as <strong className="text-white">Yazan</strong>), a <strong className="text-white">Full-Stack Developer</strong> passionate about building clean web applications, developing scalable backend systems, and crafting smooth user experiences.
+                I am a <strong className="text-white font-semibold">Full-Stack Developer</strong> with hands-on experience building end-to-end web applications, designing database schemas, and managing self-hosted server infrastructure.
               </p>
-              <ul className="text-sm space-y-2 text-[#c9d1d9] list-disc list-inside">
-                <li>🔭 I focus on end-to-end web development with <strong className="text-white">Laravel</strong> and <strong className="text-white">Next.js</strong>.</li>
-                <li>🛠️ Daily driver: <strong className="text-white">TypeScript</strong>, <strong className="text-white">PHP</strong>, <strong className="text-white">React</strong>, and <strong className="text-white">Tailwind CSS</strong>.</li>
-                <li>🗄️ Database modeling with <strong className="text-white">PostgreSQL</strong>, <strong className="text-white">MySQL</strong>, <strong className="text-white">MariaDB</strong>, and <strong className="text-white">MongoDB</strong>.</li>
-                <li>🐧 Linux & self-hosting enthusiast running <strong className="text-white">CachyOS</strong>, <strong className="text-white">Docker</strong>, and <strong className="text-white">Proxmox VE</strong>.</li>
-                <li>🎯 Philosophy: Write readable code, understand systems end-to-end, and learn by shipping practical software.</li>
-                <li>💬 Ask me about full-stack web development, REST APIs, databases, or Linux.</li>
-                <li>📫 How to reach me: <a href="mailto:goakmal3@gmail.com" className="text-[#58a6ff] hover:underline">goakmal3@gmail.com</a> or Discord <code className="bg-[#161b22] px-1.5 py-0.5 rounded text-xs text-[#58a6ff]">yazanpet</code>.</li>
+              <ul className="text-sm space-y-2 text-[#c9d1d9]">
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🔭</span>
+                  <span><strong>Current Focus:</strong> Building production-ready applications with <strong className="text-white">Laravel</strong> and <strong className="text-white">Next.js</strong>.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🛠️</span>
+                  <span><strong>Languages &amp; Core:</strong> <strong className="text-white">TypeScript</strong>, <strong className="text-white">JavaScript</strong>, <strong className="text-white">PHP</strong>, and <strong className="text-white">Java</strong>.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🎨</span>
+                  <span><strong>Frontend:</strong> <strong className="text-white">React</strong>, <strong className="text-white">Next.js</strong>, and <strong className="text-white">Tailwind CSS</strong>.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🗄️</span>
+                  <span><strong>Databases:</strong> <strong className="text-white">PostgreSQL</strong>, <strong className="text-white">MySQL</strong>, <strong className="text-white">MariaDB</strong>, and <strong className="text-white">MongoDB</strong>.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🐧</span>
+                  <span><strong>Environment:</strong> Power user of <strong className="text-white">Windows 11</strong>, containerization with <strong className="text-white">Docker</strong>, and virtualization with <strong className="text-white">Proxmox VE</strong>.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">🎯</span>
+                  <span><strong>Philosophy:</strong> Write readable code, understand systems end-to-end, and learn by shipping practical software.</span>
+                </li>
+                <li className="flex items-start gap-2">
+                  <span className="text-base leading-none">💬</span>
+                  <span><strong>Ask me about:</strong> Full-stack architecture, REST API design, database normalization, or Linux setups.</span>
+                </li>
               </ul>
             </section>
 
             <hr className="border-[#30363d]" />
 
-            {/* Tech Stack */}
+            {/* Tech Stack using SkillIcons */}
             <section className="space-y-4">
               <h3 className="text-lg font-bold text-white flex items-center gap-2">
                 <span>🛠️</span> Tech Stack &amp; Toolkit
               </h3>
 
-              <div className="space-y-3 text-sm">
-                <div>
-                  <h4 className="text-xs font-semibold text-[#8b949e] uppercase mb-1.5">💻 Frontend</h4>
-                  <div className="flex flex-wrap gap-1.5">
-                    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-                    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-                    <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-                    <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-                    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-                    <img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine.js" />
-                  </div>
-                </div>
+              <div className="flex justify-center p-4 rounded-xl bg-[#161b22] border border-[#30363d]">
+                <img 
+                  src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,php,laravel,nodejs,java,kotlin,flutter,postgres,mysql,mongodb,linux,docker,git,github&perline=9&theme=dark" 
+                  alt="Hidayat Nur Wahid Tech Stack"
+                  className="max-w-full h-auto"
+                />
+              </div>
 
-                <div>
-                  <h4 className="text-xs font-semibold text-[#8b949e] uppercase mb-1.5">⚙️ Backend &amp; API</h4>
-                  <div className="flex flex-wrap gap-1.5">
-                    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-                    <img src="https://img.shields.io/badge/Laravel_13-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-                    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-                    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-                  </div>
-                </div>
-
-                <div>
-                  <h4 className="text-xs font-semibold text-[#8b949e] uppercase mb-1.5">📱 Mobile Development</h4>
-                  <div className="flex flex-wrap gap-1.5">
-                    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-                    <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-                  </div>
-                </div>
-
-                <div>
-                  <h4 className="text-xs font-semibold text-[#8b949e] uppercase mb-1.5">🗄️ Databases</h4>
-                  <div className="flex flex-wrap gap-1.5">
-                    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-                    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-                    <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
-                    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-                    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-                  </div>
-                </div>
-
-                <div>
-                  <h4 className="text-xs font-semibold text-[#8b949e] uppercase mb-1.5">🐧 Tools &amp; DevOps</h4>
-                  <div className="flex flex-wrap gap-1.5">
-                    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-                    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-                    <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-                    <img src="https://img.shields.io/badge/Proxmox_VE-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
-                  </div>
-                </div>
+              {/* Categorized Table */}
+              <div className="overflow-x-auto rounded-lg border border-[#30363d]">
+                <table className="w-full text-left text-xs">
+                  <thead className="bg-[#161b22] text-[#8b949e] uppercase font-mono">
+                    <tr>
+                      <th className="py-2.5 px-4 font-semibold">Domain</th>
+                      <th className="py-2.5 px-4 font-semibold">Technologies</th>
+                    </tr>
+                  </thead>
+                  <tbody className="divide-y divide-[#30363d] font-mono text-[#c9d1d9]">
+                    <tr>
+                      <td className="py-2 px-4 font-semibold text-white font-sans">Frontend</td>
+                      <td className="py-2 px-4">React, Next.js, TypeScript, JavaScript, Tailwind CSS, Alpine.js</td>
+                    </tr>
+                    <tr>
+                      <td className="py-2 px-4 font-semibold text-white font-sans">Backend &amp; APIs</td>
+                      <td className="py-2 px-4">PHP, Laravel, Node.js, Java, RESTful API Architecture, Authentication</td>
+                    </tr>
+                    <tr>
+                      <td className="py-2 px-4 font-semibold text-white font-sans">Mobile Development</td>
+                      <td className="py-2 px-4">Kotlin, Flutter</td>
+                    </tr>
+                    <tr>
+                      <td className="py-2 px-4 font-semibold text-white font-sans">Databases</td>
+                      <td className="py-2 px-4">PostgreSQL, MySQL, MariaDB, MongoDB, SQLite</td>
+                    </tr>
+                    <tr>
+                      <td className="py-2 px-4 font-semibold text-white font-sans">DevOps &amp; Systems</td>
+                      <td className="py-2 px-4">Linux (CachyOS / Ubuntu), Docker, Proxmox VE, Git, GitHub</td>
+                    </tr>
+                  </tbody>
+                </table>
               </div>
             </section>
 
@@ -350,30 +436,11 @@ Hi there! I'm **Hidayat Nur Wahid** (also known as **Yazan**), a **Full-Stack De
 
             <hr className="border-[#30363d]" />
 
-            {/* Connect */}
-            <section className="space-y-3 text-center">
-              <h3 className="text-lg font-bold text-white">📬 Connect With Me</h3>
-              <div className="flex flex-wrap items-center justify-center gap-2 pt-1">
-                <a href="mailto:goakmal3@gmail.com">
-                  <img src="https://img.shields.io/badge/Gmail-goakmal3%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-                </a>
-                <a href="https://discord.gg/P2ttcrbxB" target="_blank" rel="noreferrer">
-                  <img src="https://img.shields.io/badge/Discord-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-                </a>
-                <a href="https://www.instagram.com/yazzan_sz/" target="_blank" rel="noreferrer">
-                  <img src="https://img.shields.io/badge/Instagram-@yazzan__sz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-                </a>
-                <a href="https://github.com/WahidYazan" target="_blank" rel="noreferrer">
-                  <img src="https://img.shields.io/badge/GitHub-WahidYazan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-                </a>
-              </div>
-              <p className="text-xs text-[#8b949e] font-mono mt-2">
-                Discord Direct: <span className="text-[#58a6ff]">yazanpet</span>
+            {/* Footer with Discord Note */}
+            <div className="text-center space-y-1 text-xs text-[#8b949e]">
+              <p>
+                Discord Direct: <code className="text-[#58a6ff] bg-[#161b22] px-1.5 py-0.5 rounded">yazanpet</code> &bull; Server: <a href="https://discord.gg/P2ttcrbxB" target="_blank" rel="noreferrer" className="text-[#58a6ff] hover:underline">discord.gg/P2ttcrbxB</a>
               </p>
-            </section>
-
-            <div className="text-center text-xs text-[#8b949e] pt-4 border-t border-[#30363d]">
-              <sub>⭐️ Designed with simplicity &amp; focus · <strong>Hidayat Nur Wahid</strong></sub>
             </div>
           </div>
         )}
